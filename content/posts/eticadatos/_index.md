@@ -1,6 +1,6 @@
 ---
 title: "Ética de datos"
-hero: /images/hero/banner.jpg
+hero: /images/hero/bubatiki.png
 tags: ["Pregrado - Filosofía"]
 
 menu:
