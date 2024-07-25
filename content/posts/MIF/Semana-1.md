@@ -20,7 +20,6 @@ Este no es un curso común y corriente. No hay lecturas fijas; no hay parciales,
 Para eso vamos a necesitar.
 
 1. Computador en clase **siempre**. 
-2. Usar Flip (anteriormente, Flipgrid)
 
 ¡y nada más! (Casi)
 
@@ -79,5 +78,4 @@ Fuentes:
 
 2. Leer al menos 20 páginas (de la bolsa de textos). Hacer una reseña.
 
-3. Participar en Flip antes del lunes a media noche
 
