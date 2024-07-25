@@ -2,7 +2,7 @@
 title: "Semana 3"
 date: 2020-06-08T08:06:25+06:00
 description: Semana 3
-hero: /images/hero/banner.jpg
+hero: /images/hero/excedente.png
 menu:
   sidebar:
     name: Semana 3
@@ -14,40 +14,6 @@ math: true
 draft: true
 
 ---
-
-![](/images/site/borde.jpg)
-
-## Plan
-1. Preguntas de la clase pasada
-1. Vigilancia en la vida cotidiana
-1. El descubrimiento del excedente conductual 
-1. La pregunta por el producto
-1. Retos y preguntas
-
-
-![](/images/site/borde.jpg)
-
-
-## Preguntas de la clase pasada
-
-- IA como ciencia vs IA como tecnología
-- ¿cómo se defiende privacidad?
-- ¿cuál es el rol del ser humano en la IA?
-- ¿dónde queda la sabiduría humana ante la IA?
-- ¿es una exageraciòn pensar que ya hay IA manipulando gente?
-- ¿aprendizaje automático y su relaición con la realidad?
-- Los recursos utilizados para la IA implican poder. ¿cómo se establecen códigos y normas? 
-- ¿Cómo podemos equilibrar los beneficios de la IA con los riesgos potenciales para la privacidad y la
-seguridad?
-- ¿Qué marcos éticos y regulaciones son necesarios para guiar el desarrollo responsable de la IA?
-- ¿Cómo afectará la creciente dependencia de la IA en diversos sectores a la dinámica del empleo y
-la economía?
-- ¿A quien corresponde la responsabilidad de limitar o regular el uso de la
-inteligencia artificial?
-- ¿Esta responsabilidad y toma de decisiones debe corresponder a una entidad
-global? ¿O debería gestionarse de acuerdo a los gobiernos y sistemas
-judiciales de cada país?
-
 ![](/images/site/borde.jpg)
 
 
@@ -101,14 +67,14 @@ El punto del capítulo no es que el uso de los datos es siempre malo. Sino que *
 ### Datos para los usuarios 
 
 
-![](/courses/tecyeco/img/19.png)
+![](/img/19.png)
 
 
 
 ### Datos para terceros
 
 
-![](/courses/tecyeco/img/18.png)
+![](/img/18.png)
 
 
 
