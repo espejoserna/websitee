@@ -11,7 +11,7 @@ menu:
     weight: 4
 tags: ["Tecnología y ecología humana", "Maestría - Psicología"]
 math: true
-draft: true
+draft: false
 
 ---
 ![](/images/site/borde.jpg)
@@ -101,33 +101,42 @@ Vale la pena diferencia entre algunos de los retos que nos presenta Zuboff.
 1. A la democracia
 1. A la privacidad 
 
-### Preguntas
 
-- ¿Qué innovación permite el capitalismo de la vigilancia? ¿Eficiencia? ¿Comodidad? ¿Servicios gratuitos?
+## Preguntas
 
-- Sin el capitalismo de la vigilancia, Google no hubiese podido prosperar. ¿Capitalismo de la vigilancia implica innovación? ¿Debemos detener la innovación en favor de la privacidad*?
+### Grupo 1: Papel de los usuarios y educación sobre privacidad
 
-- ¿Es posible tener el nivel de innovación de google sin el Capitalismo de la vigilancia?
+1. ¿Qué papel juegan los usuarios en la creación de su propio valor en el contexto del capitalismo de la vigilancia?
+2. ¿Cómo se puede educar a los usuarios sobre la importancia de la privacidad y la gestión de sus datos en un entorno digital cada vez más complejo?
 
-- ¿Debería haber más restricciones a la tecnología y su uso incluso si eso significa ponerle más trabas a la innovación?
+### Grupo 2: Incentivar prácticas éticas y regulaciones
 
-- ¿Puede la innovación cohexistir de manera pacífica sin el capitalismo de la vigilancia?
+1. ¿Cómo pueden las empresas tecnológicas ser incentivadas a adoptar prácticas más éticas en el manejo de datos?
+2. ¿Qué pueden hacer los gobiernos para regular este capitalismo de la vigilancia sin sofocar la innovación?
+3. ¿Está cambiando la relación de poder que tienen hoy las compañías de TI sobre los seres humanos?
+4. En el proceso de privatizar los datos ante el uso desmesurado que ejercen las compañías ¿Es tarde o se podría lograr, en esto mismo, las compañías de TI estarían dispuestas?
 
+### Grupo 3: Consecuencias sociales, éticas y derechos de los usuarios
 
-- ¿Qué retos le presenta el capitalismo de la vigilancia a la democracia? ¿Manipulación de la opinión pública? ¿Falta de control? ¿Inequidad?
+1. ¿Hasta qué punto la extracción y utilización del excedente conductual comprometen la privacidad de los individuos?
+2. ¿Cómo amplifica el capitalismo de la vigilancia la desigualdad y la exclusión social?
+3. ¿Qué implicaciones tiene el capitalismo de la vigilancia para los derechos y la autonomía de los individuos?
+4. ¿Cuáles son los principales aspectos éticos que se tratan respecto de la vigilancia de datos?
+5. ¿Cuáles son las consecuencias sociales y éticas de la concentración de derechos de decisión sobre la privacidad en manos de corporaciones como Google?
 
-- ¿Qué beneficios le presenta el capitalismo de la vigilancia a la democracia? ¿Mayor participación? ¿Políticas basadas en evidencia? ¿Crecimiento económico?
+### Grupo 4: Protección de privacidad y derechos en un entorno tecnológico
 
-- ¿Qué retos le presenta el capitalismo de la vigilancia a la libertad? ¿Manipulación? Discriminación? ¿Inequidad?
+1. ¿Cómo podemos equilibrar la innovación tecnológica con la protección de nuestra privacidad y derechos?
+2. ¿Cómo podemos tener más control sobre nuestros datos personales en este entorno dominado por la vigilancia?
+3. ¿Qué peligros hay si las empresas usan nuestros datos online para ganar dinero?
+4. ¿Cómo podemos proteger nuestros derechos y seguir innovando en tecnología?
+5. Cómo nos quita privacidad el capitalismo de vigilancia en internet?
 
-- ¿Qué beneficios le presenta el capitalismo de la vigilancia a la libertad? Comodidad? Participación política? ¿Accesso a la información?
+### Grupo 5: Comparación de estrategias y modelos de negocio
 
-
-- ¿Qué retos le presenta el capitalismo de la vigilancia a la privacidad? Falta de consentimiento? Discriminación y perfilamiento? efecto inhibidor/ disuasorio?
-
-- ¿Qué beneficios le presenta el capitalismo de la vigilancia a la privacidad? Personalización? Eficiencia ? ¿mayor seguridad?
-
-
+1. ¿Cómo se comparan las estrategias de Google para la recopilación de datos con las prácticas de otras plataformas digitales, como Facebook o Amazon, en el contexto del capitalismo de la vigilancia?
+2. ¿Cómo ha influido el modelo de negocio de Google en la competencia dentro del sector tecnológico y en la innovación de otras empresas en el ámbito digital?
+3. ¿Cómo podría estarse reformando la conducta del ser humano gracias al acceso y manejo que dan las empresas del sector TI?
 
 ## Para la próxima semana
 

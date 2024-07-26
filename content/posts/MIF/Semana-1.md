@@ -20,6 +20,7 @@ Este no es un curso común y corriente. No hay lecturas fijas; no hay parciales,
 Para eso vamos a necesitar.
 
 1. Computador en clase **siempre**. 
+2. 
 
 ¡y nada más! (Casi)
 
