@@ -2,7 +2,7 @@
 title: "Semana 2"
 date: 2020-06-08T08:06:25+06:00
 description: Semana 2
-hero: /images/hero/banner.jpg
+hero: /images/hero/libros1.jpg
 menu:
   sidebar:
     name: Semana 2
@@ -11,7 +11,7 @@ menu:
     weight: 3
 tags: ["Metodología de la investigación filosófica", "Pregrado - Filosofía"]
 math: true
-draft: true
+draft: false
 
 ---
 
@@ -24,7 +24,7 @@ draft: true
 - Los retos de la autonomía y la importancia de un sistema de trabajo
 - ¿Cómo toman notas?
 - Trabajar autónomamente no es trabajar en solitario.
-- Las materias que han visto y planean ver
+- Las materias que han visto y planean ver.
 - Los posibles directores y la relación con ellos.
   
 ### Retroalimentación
