@@ -15,13 +15,12 @@ draft: false
 ---
 
 
-![](/courses/hfc/_index_files/borde.jpg)
 
 ## Plan
 1. Armas de destrucción matemática
 1. Del almacen multinacional de Google a la tienda de la esquina: casos concretos
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 
 
