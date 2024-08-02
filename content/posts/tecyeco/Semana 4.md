@@ -17,10 +17,33 @@ draft: false
 
 
 ## Plan
+1. Dos historias
 1. Armas de destrucción matemática
 1. Del almacen multinacional de Google a la tienda de la esquina: casos concretos
 
 ![](/images/site/borde.jpg)
+
+## Dos historias
+
+*Cortesía de GPT*
+
+### Technostalgia
+En el país ficticio de Technostalgia, la mayoría de los procesos administrativos y laborales siguen basándose en tecnologías del siglo pasado. En lugar de utilizar algoritmos avanzados y análisis de datos para determinar la asignación de empleos, el país sigue confiando en métodos manuales y obsoletos. Las solicitudes de empleo se presentan en papel, y los candidatos deben rellenar formularios extensos a mano. Estas solicitudes se recopilan en grandes archivos físicos que se almacenan en oficinas gubernamentales llenas de archivadores y estanterías.
+
+Los encargados de la selección de personal son burócratas que revisan cada solicitud individualmente. Utilizan criterios rígidos y arcaicos para evaluar a los candidatos, como la caligrafía y el prestigio de la universidad de la que provienen. No existen bases de datos centralizadas ni sistemas electrónicos que faciliten el análisis de las competencias y experiencias de los postulantes. Las entrevistas se realizan en persona, y los entrevistadores se basan en su intuición y experiencia personal para tomar decisiones, sin el apoyo de herramientas modernas de evaluación psicológica o técnica.
+
+En este contexto, la asignación de empleos es lenta y propensa a errores humanos. Los candidatos pueden esperar meses para recibir una respuesta, y las decisiones a menudo son subjetivas y susceptibles a favoritismos. La falta de transparencia y la ineficiencia del sistema generan frustración entre los ciudadanos, quienes sienten que sus oportunidades laborales dependen más de la suerte que de su mérito real. A medida que el resto del mundo avanza hacia la automatización y la inteligencia artificial, Technostalgia se queda cada vez más rezagado, atrapado en un ciclo de ineficiencia y descontento.
+
+
+### Technofuturo
+
+En el país ficticio de Technofuturo, la asignación de empleos está completamente dominada por la tecnología más avanzada del siglo XXI. En lugar de confiar en la evaluación humana, los procesos de selección de personal son gestionados por algoritmos de inteligencia artificial y modelos predictivos que analizan grandes volúmenes de datos. Los candidatos deben enviar sus solicitudes en plataformas en línea, donde cada detalle de su perfil, desde su historial académico hasta su actividad en redes sociales, es analizado minuciosamente por programas sofisticados.
+
+Estos algoritmos clasifican y filtran a los candidatos en función de parámetros predeterminados que supuestamente identifican el "ajuste perfecto" para cada posición. Sin embargo, el sistema, aunque eficiente, es profundamente injusto. Los algoritmos están sesgados por los datos históricos en los que fueron entrenados, perpetuando discriminaciones basadas en género, raza y antecedentes socioeconómicos. Candidatos de minorías o aquellos que provienen de universidades menos prestigiosas son sistemáticamente relegados a posiciones inferiores o rechazados sin que un ser humano revise sus solicitudes.
+
+Además, la falta de transparencia en los criterios utilizados por los algoritmos deja a los candidatos en la oscuridad sobre por qué fueron rechazados o aceptados. Los procesos son rápidos, pero deshumanizantes, y las personas sienten que son evaluadas como meros números en un sistema implacable.
+
+Los ciudadanos de Technofuturo experimentan una creciente frustración y desesperanza. Saben que sus méritos y habilidades son secundarios frente a los algoritmos que dictan sus oportunidades laborales. La eficiencia tecnológica ha eliminado la subjetividad humana, pero a costa de la justicia y la equidad. Mientras el país avanza tecnológicamente, la brecha de desigualdad y la percepción de injusticia se amplían, dejando a muchos cuestionando el verdadero costo del progreso.
 
 
 
@@ -28,7 +51,7 @@ draft: false
 
 ### Definición
 
-Armas de destrucción matemática -> Weapons of math destruction -> Weapons of Mass destruction -> Armas de destructión masiva (ej. Bombas nucleares)
+Armas de destrucción matemática -> Weapons of math destruction -> Weapons of Mass destruction -> Armas de destrucción masiva (ej. Bombas nucleares)
 
 ADM: la opacidad, la escala y el daño
 
@@ -40,7 +63,14 @@ No porque se usen datos, se hagan predicciones y se implementen decisiones con b
 
 ##### "Los modelos son opiniones integradas en matemáticas".
 
-Escala:
+Escala: 
+
+> La tercera pregunta que debemos hacernos es si el modelo tiene la
+capacidad de crecer exponencialmente. O, como lo diría un estadístico, ¿es
+escalable? Esto puede sonar a una objeción quisquillosa de un empollón de
+las matemáticas, pero la escala es lo que marca la diferencia entre que un
+ADM sea una pequeña molestia localizada o un auténtico tsunami que define
+y delimita nuestras vidas. 
 
 Falta de transparencia: 
 
@@ -167,9 +197,6 @@ y el algoritmo les facilita las decisiones difíciles. Pueden decidir a quién
 despedir para reducir costes y responsabilizar de la decisión a un número
 objetivo, sea o no certero.
 
-
-#### Profesores del distrito
-
 > en 2009, Michelle Rhee puso en marcha un plan para extirpar del sistema a los docentes de bajo rendimiento. Esta era la tendencia generalizada en los distritos escolares con problemas en todo el país y, desde el punto de vista de la ingeniería de sistemas, este razonamiento tiene mucho sentido. Hay que evaluar a los profesores, deshacerse de los peores y colocar a los mejores donde puedan producir el mayor efecto positivo posible. En el lenguaje de los científicos de datos, de este modo «se optimiza» el sistema escolar y presuntamente se garantizan mejores resultados para los alumnos. Exceptuando a los «malos» profesores, ¿quién podría no estar de acuerdo con este razonamiento?
 
 El daño no está determinado por la intención. (Recuerden el efecto Knobe y la relación entre la intencionalidad y la valuación moral.)
@@ -191,7 +218,7 @@ La pregunta: ¿Hacia dónde va dirigido el precio o las consecuencias del algort
 Ejemplo de que conocer el sistema permite engañar el sistema?
 
 
-### crédito 
+### Crédito 
 
 Antes los créditos se asignaban con base en el conocimiento personal. Todos se conocen entre todos entonces es fácil asignar la credibilidad para el pago. Pero eso dependen de que te conozcan y cómo te conozcan. 
 
@@ -262,7 +289,7 @@ desempleados e incluso algunos en la cárcel.
 
 ### Seguros
 
-A finales del siglo XIX, el famoso estadístico Frederick Hoffman creó
+> A finales del siglo XIX, el famoso estadístico Frederick Hoffman creó
 una potente ADM. Probablemente Hoffman, un alemán que trabajaba
 para la Prudential Life Insurance Company, no pretendiese hacer ningún
 daño.[191] Más adelante en su vida, sus investigaciones aportaron mucho al
@@ -275,7 +302,7 @@ personas. En su informe utilizaba estadísticas detalladas para defender que
 las vidas de los afroamericanos eran tan precarias que la raza entera era
 «inasegurable».
 
-Pensemos en los seguros de automóvil. En 2015 los investigadores de la
+> Pensemos en los seguros de automóvil. En 2015 los investigadores de la
 revista de la asociación de consumidores Consumer Reports llevaron a cabo
 un amplio estudio a escala nacional para localizar discrepancias en la
 fijación de los precios.[198] Analizaron más de 2000 millones de
@@ -293,14 +320,14 @@ historial del conductor al volante. En otras palabras, la manera en que
 gestionamos nuestro dinero puede importar más que nuestra manera de
 conducir. 
 
-La fijación de precios resultante es injusta. Este abuso no se produciría
+> La fijación de precios resultante es injusta. Este abuso no se produciría
 si los precios de los seguros fueran transparentes y si los clientes pudieran
 comparar los productos de distintas aseguradoras, pero, al igual que otras
 muchas ADM, este sistema de fijación de precios es opaco. Cada persona
 tiene una experiencia diferente, y los modelos se optimizan para sacar la
 mayor cantidad de dinero posible de los desesperados y los ignorantes.
 
-Todo esto puede sonar un poco cínico, pero pensemos en el algoritmo de
+> Todo esto puede sonar un poco cínico, pero pensemos en el algoritmo de
 optimización de precios de Allstate, la aseguradora que se anuncia a sí
 misma invitando a los consumidores a ponerse «en sus buenas manos».
 Según la Federación Estadounidense de Consumidores (CFA, por sus siglas
@@ -313,7 +340,7 @@ tiene sentido cobrarles más, Y eso es justo lo que hace Allstate.
 ### Preguntas
 
 
-### ¿Y el lado positibo?
+#### ¿Y el lado positivo?
 
 1. ¿Es justo generalizar sobre todos los algoritmos y su impacto negativo sin considerar que algunos pueden ser diseñados para ser más justos y transparentes?
 1. ¿Se está desestimando el valor de la automatización al centrarse únicamente en sus aspectos negativos, sin reconocer los beneficios como la eficiencia y la reducción de costos operativos?
