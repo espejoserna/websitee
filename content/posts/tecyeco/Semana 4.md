@@ -37,6 +37,8 @@ No porque se usen datos, se hagan predicciones y se implementen decisiones con b
 
 - A veces los puntos ciegos de un modelo no tienen ninguna importancia. Cuando pedimos a Google Maps que nos indique cómo llegar a un lugar, modela el mundo como una serie de carreteras, túneles y puentes. Ignora los edificios, porque no son relevantes para la tarea. Cuando el software de aviónica guía a un avión, modela el viento, la velocidad del avión y la pista de aterrizaje en tierra, pero no las calles, los túneles, los edificios, ni las personas.Los puntos ciegos de un modelo reflejan las opiniones y prioridades de sus creadores
 
+- Pero ignora la seguridad, por ejemplo. 
+
 ##### "Los modelos son opiniones integradas en matemáticas".
 
 Escala:
@@ -48,6 +50,10 @@ Falta de transparencia:
 Daño:
 
 >  Y las víctimas? Bueno, un científico de datos nos diría que ningún sistema estadístico es perfecto. Esas personas son daños colaterales. Y, con frecuencia, como en el caso de Sarah Wysocki, son consideradas indignas y prescindibles. Olvidémonos de las víctimas por un momento, nos diría, y pensemos en todas las personas que reciben sugerencias provechosas de los motores de recomendación y que encuentran música que les apasiona en la radio en línea Pandora, su trabajo ideal en LinkedIn o quizá el amor de su vida en Match.com. Pensemos en la prodigiosa escala de estos modelos e ignoremos las imperfecciones
+
+
+(Sarah Wysocki fue retirada de su trabajo como profesora de colegio por una ADM)
+
 
 ### Modelos de beisbol
 
@@ -74,14 +80,6 @@ La primera pregunta; aunque el participante sea consciente de que es objeto de u
 >  Cuando pienso en las formas interesadas y poco rigurosas en las que las empresas utilizan los datos, a menudo me viene a la cabeza la frenología, una pseudociencia que estuvo de moda durante un breve periodo en el siglo XIX. Los frenólogos pasaban los dedos por el cráneo del paciente buscando protuberancias y hendiduras. Cada uno de estos elementos, según la frenología, estaba relacionado con distintos rasgos de la personalidad presentes en veintisiete regiones diferentes del cerebro. La conclusión del frenólogo solía coincidir con lo que observaba en el paciente. Si un paciente tenía ansiedad o sufría de alcoholismo, el análisis del cráneo solía revelar protuberancias y hendiduras que se correspondían con esa observación, lo que, a su vez, reforzaba la fe en la ciencia de la frenología.
 
 - Este fenómeno es conocido en estadística como la paradoja de Simpson: se da cuando un conjunto de datos muestra una tendencia, pero, al descomponer dicho conjunto en subgrupos, aparece la tendencia opuesta en cada uno de ellos individualmente.
-
-
-### Ejemplos 
-
-- Modelo de medición de éxito de profesores del distrito
-- Modelo de reincidencia criminal
-- Modelo de preferencias electorales
-- Modelo para publicidad
 
 
 
@@ -124,13 +122,15 @@ El problema con los proxies es que pueden fomentar incentivos perversos. Se pued
 
 Ejemplos
 
-1. cambio de valores en un partido de fútbol. Medir el éxito con base en el reconocimiento en lugar de goles, o asistencia.
+1. Cambio de valores en un partido de fútbol. Medir el éxito con base en el reconocimiento en lugar de goles, o asistencia.
 
 1. Cambio de valores en educación superior. Medir el éxito con base en las calificaciones en lugar del aprendizaje.
 
 Cuando medimos proxies, abrimos la puerta a incentivos perversos:
 
-  En India, se implementó una política de incentivos económicos para reducir la población de serpientes venenosas. Se ofrecía una recompensa monetaria a los ciudadanos por cada serpiente venenosa que capturaran y entregaran a las autoridades locales. Sin embargo, esta medida tuvo un efecto inesperado y contraproducente. En lugar de disminuir, la población de serpientes venenosas aumentó significativamente. ¿La razón? Las personas comenzaron a criar serpientes venenosas con el único propósito de reclamar la recompensa. Este curioso caso ilustra cómo la implementación de incentivos económicos sin considerar las posibles consecuencias puede tener un impacto negativo en la comunidad y el ecosistema local, generando un riesgo para la seguridad de las personas y desequilibrando el equilibrio natural del entorno. Los incentivos tangibles (como el dinero o las notas) o simbólicos (como las caritas felices o las estrellas doradas) pueden influir en el comportamiento de las personas de maneras inesperadas y subraya la necesidad de un enfoque reflexivo y holístico al diseñar políticas y programas de incentivos. La lección aprendida de esta historia es que, al implementar incentivos, es crucial considerar no solo los resultados inmediatos deseados, sino también las posibles ramificaciones y efectos secundarios para evitar consecuencias no deseadas.
+  En India, se implementó una política de incentivos económicos para reducir la población de serpientes venenosas. Se ofrecía una recompensa monetaria a los ciudadanos por cada serpiente venenosa que capturaran y entregaran a las autoridades locales. Sin embargo, esta medida tuvo un efecto inesperado y contraproducente. En lugar de disminuir, la población de serpientes venenosas aumentó significativamente. La razón: Las personas comenzaron a criar serpientes venenosas con el único propósito de reclamar la recompensa. 
+
+  Este curioso caso ilustra cómo la implementación de incentivos económicos sin considerar las posibles consecuencias puede tener un impacto negativo en la comunidad y el ecosistema local, generando un riesgo para la seguridad de las personas y desequilibrando el equilibrio natural del entorno. Los incentivos tangibles (como el dinero o las notas) o simbólicos (como las caritas felices o las estrellas doradas) pueden influir en el comportamiento de las personas de maneras inesperadas y subraya la necesidad de un enfoque reflexivo y holístico al diseñar políticas y programas de incentivos. La lección aprendida de esta historia es que, al implementar incentivos, es crucial considerar no solo los resultados inmediatos deseados, sino también las posibles ramificaciones y efectos secundarios para evitar consecuencias no deseadas.
 
 
 --- 
@@ -141,9 +141,35 @@ Parte del problema se da porque no hay un cuidado del algoritmo:
 
 > Se molestará alguno de los directivos de Kroger en analizar el test de personalidad e investigar por qué se equivocaron tanto? Seguro que no. La diferencia es la siguiente: los equipos de baloncesto gestionan personas individuales con un valor potencial de millones de dólares cada una. Sus sistemas analíticos son cruciales para su ventaja competitiva y están ávidos de datos. Sin retroalimentación constante, sus sistemas se quedan anticuados y resultan inútiles. Por el contrario, las empresas que contratan a trabajadores por el sueldo mínimo, gestionan rebaños
 
-> El modelo consideraba que era más probable que rotaran los candidatos que vivían más lejos de las instalaciones en las que debían ejercer su trabajo. Esta correlación tiene sentido: es agotador pasar mucho tiempo en el trayecto al trabajo. Sin embargo, los directivos de Xerox observaron otra correlación curiosa. Muchas de las personas que sufrían esos largos desplazamientos venían al trabajo desde barrios pobres. Y hay que decir a favor de Xerox que eliminaron del modelo estos datos geográficos pese a su alta correlación con la rotación de personal. La empresa sacrificó un poco de eficiencia a cambio de ser más justos
+> El modelo consideraba que era más probable que rotaran los candidatos que vivían más lejos de las instalaciones en las que debían ejercer su trabajo. Esta correlación tiene sentido: es agotador pasar mucho tiempo en el trayecto al trabajo. Sin embargo, los directivos de Xerox observaron otra correlación curiosa. Muchas de las personas que sufrían esos largos desplazamientos venían al trabajo desde barrios pobres. Y hay que decir a favor de Xerox que eliminaron del modelo estos datos geográficos pese a su alta correlación con la rotación de personal. *La empresa sacrificó un poco de eficiencia a cambio de ser más justos.*
 
-### Profesores del distrito
+>  Gild, una start-up con sede en San Francisco, es pionera en este campo.
+Gild va mucho más allá de la alma mater o del currículo de un
+candidato: revisa millones de sitios web de empleo y analiza lo que
+denomina los «datos sociales» de cada persona. La empresa desarrolla
+perfiles de candidatos para sus clientes, en su mayoría empresas
+tecnológicas, y les informa cuando los candidatos añaden nuevas
+competencias. Gild afirma que puede incluso predecir el momento en el que
+es probable que un empleado estrella cambie de trabajo y avisar así a sus
+clientes de cuándo es el mejor momento para hacer una oferta.
+
+### En el trabajo:
+
+
+> ... los científicos necesitan la
+retroalimentación de errores —en este caso, la presencia de falsos negativos
+— para profundizar en los análisis forenses y averiguar qué salió mal, qué
+fue malinterpretado y qué datos fueron ignorados. Así es como los sistemas
+aprenden y se vuelven más inteligentes. No obstante, como hemos visto,
+muchísimas ADM crean alegremente su propia realidad, desde los modelos
+de reincidencia hasta las puntuaciones de los docentes. Los directores
+asumen que las calificaciones son lo suficientemente válidas para ser útiles,
+y el algoritmo les facilita las decisiones difíciles. Pueden decidir a quién
+despedir para reducir costes y responsabilizar de la decisión a un número
+objetivo, sea o no certero.
+
+
+#### Profesores del distrito
 
 > en 2009, Michelle Rhee puso en marcha un plan para extirpar del sistema a los docentes de bajo rendimiento. Esta era la tendencia generalizada en los distritos escolares con problemas en todo el país y, desde el punto de vista de la ingeniería de sistemas, este razonamiento tiene mucho sentido. Hay que evaluar a los profesores, deshacerse de los peores y colocar a los mejores donde puedan producir el mayor efecto positivo posible. En el lenguaje de los científicos de datos, de este modo «se optimiza» el sistema escolar y presuntamente se garantizan mejores resultados para los alumnos. Exceptuando a los «malos» profesores, ¿quién podría no estar de acuerdo con este razonamiento?
 
@@ -166,10 +192,164 @@ La pregunta: ¿Hacia dónde va dirigido el precio o las consecuencias del algort
 Ejemplo de que conocer el sistema permite engañar el sistema?
 
 
+### crédito 
+
+Antes los créditos se asignaban con base en el conocimiento personal. Todos se conocen entre todos entonces es fácil asignar la credibilidad para el pago. Pero eso dependen de que te conozcan y cómo te conozcan. 
+
+>  No era justo. Pero entonces llegó un algoritmo y las cosas mejoraron. El
+matemático Earl Isaac y su amigo, el ingeniero Bill Fair, diseñaron unmodelo que llamaron FICO para evaluar el riesgo de que una persona
+incumpla el pago de un crédito. La calificación FICO se obtenía mediante
+una fórmula que analizaba únicamente las finanzas del prestatario —
+fundamentalmente la carga de la deuda y su historial de pago de facturas—.
+Esta calificación crediticia no tenía en cuenta el color de la piel. Y resultó
+algo fantástico para el sector de la banca, porque predecía el riesgo de una
+forma mucho más precisa, al tiempo que abría las puertas a millones de
+nuevos clientes.
+
+
+> esde la época de los pioneros Bill Fair y Earl Isaac, el uso de la
+calificación crediticia ha proliferado enormemente. En la actualidad sehacen todo tipo de cálculos sobre nosotros, y tanto estadísticos como
+matemáticos se dedican a combinar de todas las maneras posibles un
+batiburrillo de datos, desde nuestros códigos postales y nuestros patrones al
+navegar por Internet hasta nuestras últimas compras. Muchos de sus modelos
+pseudocientíficos intentan predecir la solvencia crediticia asignándonos a
+todos nosotros las denominadas calificaciones electrónicas. Estas cifras,
+aunque rara vez llegamos a verlas, abren las puertas de par en par ante
+algunos de nosotros y las cierran en las narices de otros. Al contrario de lo
+que ocurría con las calificaciones FICO, a las que pretenden parecerse, las
+calificaciones electrónicas son arbitrarias, no están reguladas, no dan
+explicaciones de su funcionamiento y a menudo son injustas; en pocas
+palabras, son un ADM.
+
+
+> ¿Y qué pasa con la persona a la que los sistemas interpretan mal y
+clasifican en una categoría incorrecta? Pues eso es precisamente lo que le
+ocurre. No hay retroalimentación alguna que corrija el sistema. Un motor que
+analiza estadísticas no tiene forma alguna de aprender que acaba de enviar la
+llamada de un posible y valioso cliente al infierno de los sistemas de
+respuestas automáticas. Y, lo que es peor, los perdedores del universo no
+regulado de las calificaciones electrónicas cuentan con escasos recursos
+para presentar una queja, y aún menos para corregir un error en el sistema.
+En el reino de las ADM, ellos son los daños colaterales. Y puesto que este
+tenebroso sistema está ubicado en lejanas granjas de servidores, las víctimas
+casi nunca descubren el error. Lo más probable es que la mayoría de ellas
+lleguen a la sencilla conclusión de que la vida es simplemente así de injusta.
+
+> Esta práctica de utilizar las calificaciones crediticias en la contratación y
+los ascensos crea un peligroso ciclo de pobreza. Al fin y al cabo, si una
+persona no consigue un empleo porque tiene un mal historial crediticio,
+dicho historial crediticio no hará más que empeorar, lo que hará que le
+resulte aún más difícil conseguir un empleo. Es similar al problema al que se
+enfrentan los jóvenes cuando buscan su primer empleo y no son siquiera
+tenidos en consideración debido a su falta de experiencia. O la situación de
+los desempleados de larga duración, que ven que nadie los contrata porque
+llevan demasiado tiempo sin trabajar. Es un círculo vicioso de caída y
+derrota para los desafortunados que quedan atrapados en él.
+
+> Facebook, por ejemplo, ha patentado un nuevo tipo de
+calificación crediticia basada en las redes sociales.[178] El objetivo es
+aparentemente razonable. Pensemos en un licenciado universitario que pasa
+cinco años en una misión religiosa ayudando a llevar agua potable a pueblos
+pobres en África. Cuando vuelve a casa no tiene ninguna calificación
+crediticia y tiene problemas para conseguir un préstamo, pero sus
+compañeros de clase y amigos de Facebook trabajan en la banca de
+inversión, han hecho doctorados o son programadores. El análisis de grupo
+indicaría que este joven es una apuesta segura. El problema es que probablemente este mismo tipo de análisis resultará perjudicial para una
+limpiadora de San Luis Oriental que puede que tenga muchos amigos
+desempleados e incluso algunos en la cárcel.
 
 
 
-### Armas de destrucción matemática. 
+
+### Seguros
+
+A finales del siglo XIX, el famoso estadístico Frederick Hoffman creó
+una potente ADM. Probablemente Hoffman, un alemán que trabajaba
+para la Prudential Life Insurance Company, no pretendiese hacer ningún
+daño.[191] Más adelante en su vida, sus investigaciones aportaron mucho al
+sector de la salud pública. Desarrolló un valioso trabajo con la malaria y
+estuvo entre los primeros en asociar el cáncer y el tabaco. Sin embargo, un
+día de primavera de 1896, Hoffman publicó un informe de 330 páginas que
+ponía objeciones a la causa de la igualdad racial en Estados Unidos y
+reafirmaba la condición de ciudadanos de segunda clase de millones de
+personas. En su informe utilizaba estadísticas detalladas para defender que
+las vidas de los afroamericanos eran tan precarias que la raza entera era
+«inasegurable».
+
+Pensemos en los seguros de automóvil. En 2015 los investigadores de la
+revista de la asociación de consumidores Consumer Reports llevaron a cabo
+un amplio estudio a escala nacional para localizar discrepancias en la
+fijación de los precios.[198] Analizaron más de 2000 millones de
+presupuestos de las principales aseguradoras a clientes hipotéticos en cada
+uno de los 33.419 códigos postales del país. Lo que descubrieron fue
+terriblemente injusto y, como hemos visto en el capítulo anterior, tenía su
+origen en las calificaciones crediticias.
+Las aseguradoras sacan estas calificaciones de los informes de solvencia
+crediticia y después utilizan algoritmos desarrollados por ellas mismas para
+crear sus propias calificaciones, las calificaciones electrónicas, que se
+utilizan como valores sustitutivos de una conducción responsable. Sin
+embargo, Consumer Reports descubrió que las calificaciones electrónicas,
+que incluyen todo tipo de datos demográficos, a menudo cuentan más que el
+historial del conductor al volante. En otras palabras, la manera en que
+gestionamos nuestro dinero puede importar más que nuestra manera de
+conducir. 
+
+La fijación de precios resultante es injusta. Este abuso no se produciría
+si los precios de los seguros fueran transparentes y si los clientes pudieran
+comparar los productos de distintas aseguradoras, pero, al igual que otras
+muchas ADM, este sistema de fijación de precios es opaco. Cada persona
+tiene una experiencia diferente, y los modelos se optimizan para sacar la
+mayor cantidad de dinero posible de los desesperados y los ignorantes.
+
+Todo esto puede sonar un poco cínico, pero pensemos en el algoritmo de
+optimización de precios de Allstate, la aseguradora que se anuncia a sí
+misma invitando a los consumidores a ponerse «en sus buenas manos».
+Según la Federación Estadounidense de Consumidores (CFA, por sus siglas
+en inglés), Allstate analiza datos demográficos y de consumo para
+determinar la probabilidad de que los clientes vayan a buscar en la
+competencia precios más económicos.[200] Si es poco probable que lo hagan,
+tiene sentido cobrarles más, Y eso es justo lo que hace Allstate.
+
+
+### Preguntas
+
+
+### ¿Y el lado positibo?
+
+1. ¿Es justo generalizar sobre todos los algoritmos y su impacto negativo sin considerar que algunos pueden ser diseñados para ser más justos y transparentes?
+1. ¿Se está desestimando el valor de la automatización al centrarse únicamente en sus aspectos negativos, sin reconocer los beneficios como la eficiencia y la reducción de costos operativos?
+1. ¿Por qué el capítulo no ofrece soluciones prácticas para abordar los problemas de los sistemas de calificación crediticia y la automatización?
+
+### Regulaciones para garantizar justicia y transparencia
+1. ¿Qué tipo de regulaciones deberían establecerse para supervisar el uso de algoritmos en la gestión laboral y proteger a los trabajadores de prácticas laborales injustas?
+2. ¿Qué medidas se pueden implementar para garantizar que estas prácticas no comprometan la salud y el bienestar de los trabajadores?
+3. ¿Cómo podemos garantizar que los algoritmos sean justos y que no perpetuen los prejuicios que existen?
+4. ¿Cuáles son las acciones que podemos tomar para que el uso de algoritmos en decisiones cruciales sea más transparente y responsable?
+5. ¿De qué manera podemos permitir que las personas tengan más control sobre las decisiones automatizadas que afectan su vida?
+6. ¿Qué nivel de transparencia es necesario? ¿Hasta qué punto deben las empresas ser transparentes con respecto a los criterios y algoritmos que utilizan para evaluar a los candidatos?
+7. ¿Regulación Insuficiente?: ¿Qué medidas concretas se pueden implementar para regular y controlar de manera efectiva el uso de datos personales en la publicidad en línea para prevenir la explotación y el abuso de los consumidores más vulnerables?
+8. Responsabilidad de las Plataformas Tecnológicas: ¿Qué responsabilidad tienen las plataformas como Google y Facebook en la proliferación de la publicidad depredadora, y cómo podrían estas plataformas modificar sus políticas y prácticas para proteger mejor a los usuarios?
+3. ¿Es suficiente reformar los algoritmos, o se necesita un cambio más amplio en las estructuras económicas y sociales que perpetúan la desigualdad?
+
+
+### Gestión de recursos humanos y selección de personal
+1. ¿Es responsabilidad de las áreas de gestión humana capacitar a los candidatos para que aprendan a comprender y navegar los algoritmos de las herramientas de selección?
+2. ¿Cómo podría el área de selección identificar y descartar sesgos que presentan herramientas de selección para no excluir CV’s de candidatos potenciales?
+3. ¿Qué tipo de retroalimentación deberían hacer las empresas en cuanto a cómo son tomadas las decisiones con los candidatos que no fueron seleccionados?
+
+### Sector asegurador y discriminación algorítmica
+1. ¿Está el sector asegurador preparado para regulaciones algorítmicas?
+2. ¿Cómo el sector asegurador podría estar intencionalmente con base en la data poniendo en desventaja poblaciones?
+3. Si bien el sector asegurador debe mapear los riesgos que podría generar cada persona (algoritmos) y por ende los siniestros, ¿cómo esto discrimina o posibilita la adquisición de seguros de las personas?
+
+### Detección y corrección de sesgos
+1. ¿Cómo se pueden detectar y corregir los sesgos en los modelos?
+2. ¿Qué impactos a largo plazo tienen estos modelos en la diversidad laboral?
+1. ¿Existe algún mecanismo o ente que trabaje en la educación financiera, enfocado en los grupos sociales más vulnerables, para contribuir en la toma de decisiones financieras responsables basada en datos y no en publicidad?
+
+
+
+### Privacidad
 
 Privacidad y Poder. VELIZ, C. (2021) Privacidad es poder: datos, vigilancia y libertad en la era digital. 
 Barcelona: Editorial Debate. Cap 3.  
