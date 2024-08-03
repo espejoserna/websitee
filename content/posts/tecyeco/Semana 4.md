@@ -2,7 +2,7 @@
 title: "Semana 4"
 date: 2020-06-08T08:06:25+06:00
 description: Semana 4
-hero: /images/hero/banner.jpg
+hero: /images/hero/weapons.jpg
 menu:
   sidebar:
     name: Semana 4
@@ -379,12 +379,5 @@ tiene sentido cobrarles más, Y eso es justo lo que hace Allstate.
 
 Privacidad y Poder. VELIZ, C. (2021) Privacidad es poder: datos, vigilancia y libertad en la era digital. 
 Barcelona: Editorial Debate. Cap 3.  
-
-
-Emili: cap 10
-KAren cap 6
-Paola: cap 4
-Gloria: ciudadano: Cap 10
-Diana Cap 7. 
 
 

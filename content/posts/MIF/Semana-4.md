@@ -1,20 +1,20 @@
 ---
-title: Semana 4
-linktitle: Semana 4 
-toc: true
-type: docs
-date: "Sun Feb  6 17:36:27 2022"
-draft: false
+title: "Semana 4"
+date: 2020-06-08T08:06:25+06:00
+description: Semana 3
+hero: /images/hero/banner.jpg
 menu:
-  investigacionfilo:
-    name: Semana 4
-    weight: 4
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+  sidebar:
+    name: Semana 3
+    identifier: MIFSemana 3
+    parent: MIF-folder
+    weight: 5
+tags: ["Metodología de la investigación filosófica", "Pregrado - Filosofía"]
+math: true
 draft: true
 
 ---
+
 
 ## Recuento de la semana: 
 
