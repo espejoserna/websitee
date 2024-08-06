@@ -6,7 +6,7 @@ hero: /images/hero/universo.jpg
 menu:
   sidebar:
     name: Semana 2
-    identifier: enfsem1
+    identifier: enfsem2
     parent: cienciaenfermeria-folder
     weight: 3
 tags: ["Filosofía de la ciencia", "Doctorado - Enfermería"]
@@ -14,13 +14,13 @@ math: true
 ---
 
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Plan
 1.  Algunos conceptos clave
 1.  Las preguntas del formulario
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ##  Algunos conceptos clave
 
@@ -38,7 +38,7 @@ Quedamos la sesión pasada de discutir las siguientes preguntas:
 4.  Investigación cuantitativa y cualitativa
 5.  Investigación transdisciplinar, interdisciplinar, multidisciplinar
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Las preguntas del formulario
 

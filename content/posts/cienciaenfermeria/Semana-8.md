@@ -14,7 +14,7 @@ menu:
 weight: 2
 ---
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Plan
 
@@ -31,7 +31,7 @@ weight: 2
 1. Ensayo
 
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 
 ## Introducción general
@@ -49,7 +49,7 @@ weight: 2
 * ¿Cómo aparecen las anomalías si la ciencia normal las oculta?
 * ¿Kuhn y realismo?
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Creación de paradigmas y su papel en la empresa científica
 
@@ -73,7 +73,7 @@ La ciencia normal parece ser un intento de obligar a la naturaleza a que encaje 
 
 Piensen en la ciencia normal como ciencia de manual. La "física normal", por decirlo de alguna manera, es la física de libro de texto. En esta hay problemas y preguntas que se resuelven utilizando lo que dice el texto y no tendría sentido decir que se resuelven con algo de afuera del texto.
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Resolución de enigmas
 
@@ -95,7 +95,7 @@ Mérito profesional.
 A pesar de que lo completamente novedoso no se busca y que, por lo general, el paradigma no se cuestiona, en ocasiona la práctica científica puede y de hecho produce resultados inesperados.  
 Estas son las anomalías.
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Anomalías
 
@@ -127,7 +127,7 @@ Descubrimiento: nuevo hecho
 
 Invención: nuevo elemento teórico
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Crisis
 
@@ -161,7 +161,7 @@ Para entender qué es una crisis, el paradigma como institución y la forma en q
 
 Kuhn dice que es difícil abandonar un paradigma. ¿Por qué?
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Revolución: el cambio de mundo
 
@@ -204,7 +204,7 @@ Dentro de la ciencia normal: ☑
 Por fuera de la ciencia normal: ¿?
 
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## La noción de metaparadigma
 
@@ -213,7 +213,7 @@ Por fuera de la ciencia normal: ¿?
 - Fawcett no parece estar usando el mismo sentido de la palabra 'metaparadigma'; es una noción más general, abstract. Parece que cuando Fawcett habla de 'metaparadigma' estamos hablando del conjunto de conceptos y temas más abstractos de la disciplina y que determinan su dominio propio. (<- Evaluar y discutir: metodología para determinar los conceptos? función de esa determinación de conceptos?)
 
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## El problema de la noción de paradigma
 
@@ -237,7 +237,7 @@ with a paradigm, and the qualitative paradigm was contrasted with logical positi
 - ¿qué implica ofrecer una caracterización de enfermería en términos de paradigmas? ¿Qué se pierde y qué se gana?
 
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Alternativa: anarquismo metodológico
 

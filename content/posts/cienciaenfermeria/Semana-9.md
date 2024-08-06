@@ -14,7 +14,7 @@ menu:
 weight: 2
 ---
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Filosofías feministas de la ciencia
 

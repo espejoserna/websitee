@@ -14,7 +14,7 @@ menu:
 weight: 4
 ---
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 
 ## Ciencia vs metafísica
@@ -27,7 +27,7 @@ Empirismo -> Idealismo trascendental -> Empirismo lógico
 
 ¿Cómo distinguir entre la teoría que habla de cosas meramente inventadas y la teoía científica?
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 ## La idea central
 
 {{% alert note %}}
@@ -80,7 +80,7 @@ Los positivistas lógicos buscaban eliminar la referencia a entidades \*metafís
 Por eso las reglas de correspondencia son importantes, pues dejan ir más allá de lo directamente observacional sin dejar entrar a entidades metafísicas dadas \*a priori\*.
 
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 ##  Retos específicos: términos disposicionales y multiplicidad de procedimientos
 
 
@@ -141,7 +141,7 @@ Ya que hay muchos procedimientos para determinar la masa
 
 ¿lo que mide una balanza y lo que mide una báscula es lo mismo?
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 
 
@@ -202,7 +202,7 @@ Una explicación científica, de acuerdo con Carl Hempel, tiene los siguientes e
 
 Explicar es mostrar cómo aquello que se busca explicar (el *explanandum*) se deduce de las leyes o principios generales dadas una condiciones iniciales específicas.
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 
 ## Algunas citas clave:
@@ -249,7 +249,7 @@ La visión de lo que queda de la filosofía después del positivismo
 
 
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
  
 ### Lectura para la próxima clase 
 ### Dos Dogmas del empirismo : W. V. O. Quine

@@ -14,7 +14,7 @@ menu:
 weight: 2
 ---
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Plan
 
@@ -25,7 +25,7 @@ weight: 2
 1. Algunas citas sobre el rol de Popper en Enfermería
 1. Las limitaciones del falsacionismo
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 
 ## La idea de la falsación
@@ -52,7 +52,7 @@ weight: 2
 2. Fraude en psicología: Diederik Stapel
 3. Sokal affair
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Falsación y verificación:  
 Popper y Wittgenstein
@@ -93,7 +93,7 @@ No puede haber ningún argumento lógico válido que nos permita establecer "
 No hay sustento racional de la inducción: ✔  
 Explicación inducción en función del hábito y costumbre:✘
 
-  ![](/courses/hfc/_index_files/borde.jpg)
+  ![](/images/site/borde.jpg)
 
   
 ## El proceder de la ciencia:  
@@ -142,7 +142,7 @@ Según Popper, la ciencia *busca* la verdad pero nunca llega a ella.
 
 Sube una montaña y pero nunca llega a la cima.
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Algunas citas sobre el rol de Popper en Enfermería
 
