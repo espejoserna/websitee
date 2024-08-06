@@ -23,6 +23,8 @@ Documental que analiza el descubrimiento hecho por Joy Buolamwini de MIT Media L
 ### El dilema de las redes sociales
 Un híbrido entre documental y drama que ahonda en el negocio de las redes sociales, el poder que ejercen y la adicción que generan en nosotros: su carnada perfecta.
 
+![](/images/site/borde.jpg)
+
 ## Ciencia Ficción
 
 ### 2001: Una odisea del espacio
