@@ -78,10 +78,7 @@ Abogando por una mayor protección de la privacidad, transparencia de datos y pr
 
 ## Preguntas orientadoras
 
-- ¿Son las leyes de protección de datos suficientes?
-- ¿Cómo adquirir conciencia de la manera en que se debe cuidar de los datos?
-- ¿Cómo es que la tecnología y sus aliados cambian el vocabulario? ¿Qué retos y oportunidades traen?
-- ¿Serán estos grandes conglomerados los responsables de nuevos tipos de personalidad?
-- ¿quién es responsable?
 
+
+### Justicia y Algoritmos
 

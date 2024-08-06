@@ -13,7 +13,7 @@ tags: ["Tecnología y ecología humana", "Maestría - Psicología"]
 math: true
 ---
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Documentales
 
