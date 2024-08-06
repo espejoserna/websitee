@@ -1,18 +1,18 @@
 ---
-title: Semana 2
-linktitle: Semana 2 
-toc: true
-type: docs
-date: "2019-05-05T00:00:00+01:00"
-draft: true
+title: "Semana 2"
+date: 2020-06-08T08:06:25+06:00
+description: Semana 2
+hero: /images/hero/universo.jpg
 menu:
-  cienciaenfermeria:
+  sidebar:
     name: Semana 2
-    weight: 2
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+    identifier: enfsem1
+    parent: cienciaenfermeria-folder
+    weight: 3
+tags: ["Filosofía de la ciencia", "Doctorado - Enfermería"]
+math: true
 ---
+
 
 ![](/courses/hfc/_index_files/borde.jpg)
 
@@ -22,7 +22,7 @@ weight: 1
 
 ![](/courses/hfc/_index_files/borde.jpg)
 
-#  Algunos conceptos clave
+##  Algunos conceptos clave
 
 Quedamos la sesión pasada de discutir las siguientes preguntas:
 
@@ -44,7 +44,8 @@ Quedamos la sesión pasada de discutir las siguientes preguntas:
 
 El siguiente cuestionario servirá como un diagnóstico de lo que uds consideran una investigación exitosa, más generalmente, de lo que se valora en la investigación y cómo afecta la manera en que se realiza la investigación.
 
-[Formulario](https://forms.office.com/r/DS9T84rKRa)
+<iframe width="640px" height="480px" src="https://forms.office.com/r/H7fWHzx1rE?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
 
 ## La interdisciplinariedad
 
@@ -78,9 +79,6 @@ Aquí tenemos un ejemplo de una discusión entre una disciplina, la urología co
 Usualmente si se determina qué tipo de decisión es entonces se le pregunta a los expertos en esa área. Si es una decisión de ingienería, se escucha y se sigue al ingeniero. Si es una decisión de salud: ¿a quién se escucha y se sigue?
 
 ## Para la próxima semana
-
-
-[Carpeta recursos](https://unisabanaedu-my.sharepoint.com/:f:/g/personal/juanesse_unisabana_edu_co/El7_mzgJt19OuSCgCwdujP8BYnKl4YzALgYWg9CG3ww3dA?e=6RXgjg)
 
 Preparar una presentación corta para el jueves en donde expliquen dos de estos conceptos. (Usen el diccionario de Ferrater Mora o https://plato.stanford.edu)
 
