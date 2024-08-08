@@ -14,14 +14,14 @@ menu:
 weight: 4
 ---
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Plan
 1. Orígenes de la explicación científica
 1. Desarollo de la investigación científica
 1. Realismo y antirealismo
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Orígenes de la explicación científica
 
@@ -41,7 +41,7 @@ argumentation, (3) Aristotle’s introduction of the concept of logical validity
 1. El ejemplo de la explicación racional
 
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Desarollo de la investigación científica: el movimiento de los planetas
 
@@ -180,7 +180,7 @@ El modelo de Copérnico no es mejor que el de Brache. Y la evidencia que Galileo
 Pero la evidencia de Galileo junto con las mejoras de Kepler al modelo copernicano ponen en marcha el eventual cambio hacia el modelo heliocéntrico.
 
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Realismo y antirealismo
 
@@ -231,7 +231,7 @@ practices of a charlatan and accepted scientific methods?
 
 
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 
  

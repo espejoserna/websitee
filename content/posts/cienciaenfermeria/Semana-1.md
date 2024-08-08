@@ -17,11 +17,7 @@ math: true
 
 ![](/images/site/borde.jpg)
 
-## Plan
-1.  La filosofía de la ciencia de enfermería
-1.  Instrucciones para leer un texto filosófico
 
-![](/images/site/borde.jpg)
 
 ## La filosofía de la ciencia de enfermería
 
@@ -109,6 +105,10 @@ El conocimiento de enfermería en la práctica ya está; la ciencia de enfermer�
 Ciencia de enfermería para la resolución de problemas vs. ciencia de enfermería para el conocimiento por el conocimiento.
 
 En un ensayo escrito para la conmemoración de los 10 años de la prestigiosa "Nursing Research", Loretta Heiderken afirma que: “Research in nursing is not yet scientific. Problem-solving and research are not synonymous; to be scientific problem-solving in research must proceed from a body of theory (at least a simple conceptual model) and feed back into that theory.” (Heiderken, 1962, p. 141)
+
+
+
+
 
 
 ![](/images/site/borde.jpg)

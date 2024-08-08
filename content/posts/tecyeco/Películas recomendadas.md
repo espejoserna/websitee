@@ -13,7 +13,7 @@ tags: ["Tecnología y ecología humana", "Maestría - Psicología"]
 math: true
 ---
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Documentales
 
@@ -22,6 +22,8 @@ Documental que analiza el descubrimiento hecho por Joy Buolamwini de MIT Media L
 
 ### El dilema de las redes sociales
 Un híbrido entre documental y drama que ahonda en el negocio de las redes sociales, el poder que ejercen y la adicción que generan en nosotros: su carnada perfecta.
+
+![](/images/site/borde.jpg)
 
 ## Ciencia Ficción
 

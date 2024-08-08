@@ -14,7 +14,7 @@ menu:
 weight: 2
 ---
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Plan
 1. Tipos de conocimiento
@@ -23,7 +23,7 @@ weight: 2
 1. Sociología del conocimiento y epistemología
 1. Glosario
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Tipos de conocimiento
 
@@ -33,7 +33,7 @@ La palabra 'know' en inglés se utiliza para hablar un grupo de estados cognitiv
 1. Saber hacer (saber cómo) y saber proposicional (saber que)
 1. Saber implícito y saber explícito
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Definición del conocimiento
 
@@ -45,18 +45,18 @@ K = JTB
 
 "false knowledge is not knowledge, just as counterfeit money is no real money"
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Datos, información y conocimiento
 
 Datos > información > conocimiento
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 ## Sociología del conocimiento y epistemología
 
 Lo que se considera cononocimiento vs. lo que es conocimiento
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 
  

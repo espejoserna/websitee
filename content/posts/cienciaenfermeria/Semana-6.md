@@ -14,7 +14,7 @@ menu:
 weight: 5
 ---
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Plan
 
@@ -23,7 +23,7 @@ weight: 5
 1. El segundo dogma: reduccionismo
 1. Más allá de los dogmas
 1. Implicaciones
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 
 ## Tres maneras de fundamentar
@@ -114,7 +114,7 @@ Un desafío para Quine de parte de Gillian Russell (2008)
 
 ---
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Reductivismo
 
@@ -142,7 +142,7 @@ Esta idea toma la forma del holismo del significado:
 > el todo de la ciencia."
 
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Más allá de los dogmas
 
@@ -163,7 +163,7 @@ Estas consideraciones llevan a Quine a una forma de pragmatismo respecto a la ci
 ¿Sigue siendo esto una forma de empirismo?
 
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Implicaciones 
 
@@ -196,7 +196,7 @@ patients when implemented in nursing care.”(Johnson, 1959, The Nature of a Sci
 
 
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 
 ### Lectura para la próxima clase 
