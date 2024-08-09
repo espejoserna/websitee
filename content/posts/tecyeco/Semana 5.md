@@ -2,7 +2,7 @@
 title: "Semana 5"
 date: 2020-06-08T08:06:25+06:00
 description: Semana 5
-hero: /images/hero/privacidad.jpg
+hero: /images/hero/tecyco.png
 menu:
   sidebar:
     name: Semana 5
