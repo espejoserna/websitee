@@ -2,7 +2,7 @@
 title: "Semana 5"
 date: 2020-06-08T08:06:25+06:00
 description: Semana 5
-hero: /images/hero/privacy.jpg
+hero: /images/hero/privacidad.jpg
 menu:
   sidebar:
     name: Semana 5
@@ -11,7 +11,7 @@ menu:
     weight: 6
 tags: ["Tecnología y ecología humana", "Maestría - Psicología"]
 math: true
-draft: true
+draft: false
 ---
 
 
@@ -55,7 +55,7 @@ Uno puede pensar que los individuos deben tener la libertad de actuar y tomar de
 
 #### Libertad de expresión y el problema de los fakenews
 
-Comparemos con el siguiente ejemplo: La defensa de J.S. Mill de la libertad de expresión
+Comparemos con el siguiente ejemplo: La defensa de J.S. Mill de la libertad de expresión y los *fake news*.
 
 1. Importancia de la Diversidad de Opiniones: Mill sostiene que la libertad de expresión es crucial para garantizar la diversidad de opiniones y perspectivas en una sociedad. La exposición a diferentes puntos de vista y la libre discusión de ideas contribuyen al enriquecimiento intelectual y al avance del conocimiento.
 
@@ -65,20 +65,60 @@ Comparemos con el siguiente ejemplo: La defensa de J.S. Mill de la libertad de e
 
 4. Prueba de la Verdad: Mill defiende el principio de que la libertad de expresión es esencial para la búsqueda de la verdad. Al permitir que todas las opiniones sean expresadas y debatidas abiertamente, la sociedad puede someter las ideas a escrutinio y llegar a conclusiones más fundamentadas y veraces.
 
-La libertad de expresión es importante para el florecimeinto del individuo y de la sociedad. ¿Cómo anulan eso las *fake news*?
+La libertad de expresión es importante para el florecimeinto del individuo y de la sociedad. ¿Cómo anula eso las *fake news*?
 
 ### Empoderamiento por medio de la privacidad
 
-Veliz muestra un lado positivo: La privacidad es poder entonces debemos usarlo. Se debe proteger. 
+Veliz muestra un lado positivo: La privacidad es poder entonces debemos usarlo. Se debe proteger como un bien social. 
 
 Abogando por una mayor protección de la privacidad, transparencia de datos y prácticas de consentimiento informado, Veliz sostiene que los individuos pueden recuperar el control sobre su información personal y mitigar los impactos negativos de las dinámicas de poder impulsadas por los datos.
+
+
+- Piensa antes de compartir
+- Respeta la privacidad de otros
+- Encuentra espacios de privacidad
+- Di "no"
+- Si no necesitas algo "smart", mejor no.
+- Usa Telegram y Signal.
+- Separa los usos de tu correo.
+- Crea correos seguros 
+- Buscadores como Duck Go-go y navegadores como Brave
+- VPN y extensiones de seguridad 
+- No acumules datos
+- ¡Contraseñas seguras!
+
 
 ![](/courses/hfc/_index_files/borde.jpg)
 
 
 ## Preguntas orientadoras
 
+**1. Equilibrio entre Privacidad y Vigilancia:**
+- ¿Cómo se puede equilibrar la necesidad de vigilancia para prevenir amenazas con la protección de la privacidad individual?
+- ¿Es posible encontrar un equilibrio entre el avance tecnológico y la protección de nuestra privacidad, o estas dos metas están inevitablemente en conflicto, y qué podemos hacer para lograr un balance adecuado?
+- ¿Cómo podemos equilibrar la necesidad de privacidad con el uso de datos para el bien común, como en el caso de la salud pública o la seguridad nacional?
 
+**2. Medidas y Mecanismos para Proteger la Privacidad:**
+- ¿Qué tan viables y efectivas son las alternativas propuestas para proteger la privacidad en un entorno digital dominado por grandes corporaciones y gobiernos que ya tienen acceso a vastas cantidades de datos personales?
+- ¿Qué medidas podemos tomar para mantener nuestra privacidad sin dejar de estar tecnológicamente avanzados?
+- ¿Qué medidas podemos tomar para evitar que nuestros datos sean mal utilizados?
+- ¿Cuáles son algunos métodos eficaces para promover la privacidad digital?
+- ¿Qué mecanismos concretos pueden utilizar los ciudadanos comunes para resistir de manera efectiva la economía de la vigilancia, considerando el poder y los recursos limitados en comparación con las grandes empresas tecnológicas?
 
-### Justicia y Algoritmos
+**3. Responsabilidad de Gobiernos y Corporaciones:**
+- ¿Qué responsabilidad tienen los gobiernos y las empresas tecnológicas en proteger nuestra privacidad, y cómo podemos hacer seguimiento de dicho deber?
+- ¿Qué medidas de seguridad están implementadas para evitar que nuestros datos sean utilizados de manera indebida, ya sea por gobiernos, corporaciones u otros actores?
+
+**4. Educación y Conciencia sobre la Privacidad:**
+- ¿Cómo podemos educar a las personas sobre la importancia de la privacidad y los riesgos asociados con la entrega de sus datos personales en un entorno digital?
+
+**5. Impacto Social y Generacional de la Pérdida de Privacidad:**
+- Parece difícil/imposible proteger nuestra privacidad en un mundo cada vez más digitalizado, donde compartir nuestros datos es inevitable y en ocasiones obligatorio.
+- ¿Qué tanto están dispuestas las generaciones venideras en sacrificar su privacidad por comodidad, y cuáles podrían ser las implicaciones a largo plazo de esta decisión (teniendo en cuenta que cada vez seremos más ignorantes en el avance de las IA y plataformas de recolección de datos)?
+- ¿Cómo crees que la pérdida de privacidad afecta la salud mental y el bienestar de las personas en la sociedad actual, especialmente entre las generaciones más jóvenes?
+
+**6. Políticas Laborales en la Era Digital:**
+- ¿Cómo podemos diseñar políticas laborales que protejan los derechos de los trabajadores en un entorno laboral cada vez más digitalizado?
+
+## Tema a convenir 
 
