@@ -15,14 +15,14 @@ draft: false
 ---
 
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Plan
 1. Conceptos clave
 1. Preguntas orientadoras
 
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 
 
@@ -88,7 +88,7 @@ Abogando por una mayor protección de la privacidad, transparencia de datos y pr
 - ¡Contraseñas seguras!
 
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 
 ## Preguntas orientadoras
