@@ -31,7 +31,7 @@ draft: false
 
 ### Capitalismo de la vigilancia
 
-Veliz habla del capitalism ode la vigilancia y vuelve sobre cómo las grandes corporaciones han aprovechado datos para producir nuevas ganancias que no tienen nada que ver con el usuario. No somos el producto; no nos venden. Se vende el poder de cambiar nuestras ideas, reaciones y pensamientos. Nuestro voto está en venta. Pero todo esto en forma de la posiblidad de incidir en nuestro comportamiento. Lo que se vende e la posibildiad de cambiar el comportamiento de un tercero. 
+Veliz habla del capitalismo de la vigilancia y vuelve sobre cómo las grandes corporaciones han aprovechado datos para producir nuevas ganancias que no tienen nada que ver con el usuario. No somos el producto; no nos venden. Se vende el poder de cambiar nuestras ideas, reaciones y pensamientos. Nuestro voto está en venta. Pero todo esto en forma de la posiblidad de incidir en nuestro comportamiento. Lo que se vende e la posibildiad de cambiar el comportamiento de un tercero. 
 
 
 ### Desbalance de poder y diferentes maneras en que se ejerce el poder
@@ -50,7 +50,7 @@ Comparar el poder que tienen las compañias de tecnología con las que tiene un 
 
 La privacidad no se trata de una cuestión de propiedad. Es un derecho fundamental, sugiere Veliz. 
 
-Uno puede pensar que los individuos deben tener la libertad de actuar y tomar decisiones sobre sus propias vidas, siempre y cuando no perjudiquen a otros. En relación con la libertad de verder sus datos, ¿Cuál sería el problema? ¿Cómo afecta el florecimeinto del individuo? ¿de la sociedad? 
+Uno puede pensar que los individuos deben tener la libertad de actuar y tomar decisiones sobre sus propias vidas, siempre y cuando no perjudiquen a otros. En relación con la libertad de vender sus datos, ¿Cuál sería el problema? ¿Cómo afecta el florecimeinto del individuo? ¿de la sociedad? 
 
 
 #### Libertad de expresión y el problema de los fakenews
@@ -120,5 +120,18 @@ Abogando por una mayor protección de la privacidad, transparencia de datos y pr
 **6. Políticas Laborales en la Era Digital:**
 - ¿Cómo podemos diseñar políticas laborales que protejan los derechos de los trabajadores en un entorno laboral cada vez más digitalizado?
 
-## Tema a convenir 
+
+![](/images/site/borde.jpg)
+
+## Filosofía Política de la Inteligencia Artificial
+
+Cokelcbergh, M. (2022). Filosofía política de la inteligencia artificial. Cátedra. Cap. 4
+
+
+
+
+
+
+
+- 
 
