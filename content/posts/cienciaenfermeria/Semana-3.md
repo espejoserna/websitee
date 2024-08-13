@@ -1,17 +1,16 @@
 ---
-title: Semana 3
-linktitle: Semana 3
-toc: true
-type: docs
-date: "2019-05-05T00:00:00+01:00"
-draft: true
+title: "Semana 3"
+date: 2020-06-08T08:06:25+06:00
+description: Semana 3
+hero: /images/hero/universo.jpg
 menu:
-  cienciaenfermeria:
+  sidebar:
     name: Semana 3
-    weight: 3
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+    identifier: enfsem3
+    parent: cienciaenfermeria-folder
+    weight: 4
+tags: ["Filosofía de la ciencia", "Doctorado - Enfermería"]
+math: true
 ---
 
 ![](/images/site/borde.jpg)
@@ -58,7 +57,27 @@ Lo que se considera cononocimiento vs. lo que es conocimiento
 
 ![](/images/site/borde.jpg)
 
+## Glosario
+
+Presentación en donde se expliquen dos de estos conceptos. (Usen el diccionario de Ferrater Mora o https://plato.stanford.edu)
+
+- Axiología
+- Positivismo
+- Empirismo
+- Pragmatismo
+- Metafísica
+- Epistemología
+- Antirealismo
+- Valor
+- Hecho
+- Conocimiento
+- Verdad
+- Justificación
+- Idealismo
+- Realismo
+- Instrumentalismo
+
 
  
-### Lectura para la próxima clase 
+### Lectura para la próxima semana 
 #### Cap 1 - The evolution of science. En Philosophy of Science for Scientists
