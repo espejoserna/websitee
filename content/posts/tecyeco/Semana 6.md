@@ -15,14 +15,14 @@ draft: true
 ---
 
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 ## Plan
 1. Rúbrica del trabajo
 1. Justicia y algortimos
 
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 
 
@@ -47,7 +47,7 @@ En principio para el *cinco de abril* pero con probabilidad de pedir un fin de s
 
 
 
-![](/courses/hfc/_index_files/borde.jpg)
+![](/images/site/borde.jpg)
 
 
 
