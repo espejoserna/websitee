@@ -28,7 +28,7 @@ draft: false
 
 ## Rúbrica del trabajo
 
-Exposición oral de 3 conceptos, a 3 personas, en 15 minutos. No es posible hacer una presentación de 45 minutos a 3 personas juntas. Deben ser 3 presentaciones de 15 minutos cada una de 3 personas en donde se explique 1 concepto. 
+Exposición oral de 3 conceptos, a 3 personas, en 15 minutos. No es posible hacer una presentación de 45 minutos a 3 personas juntas. Deben ser 3 presentaciones de 15 minutos cada una de a 1 persona en donde se explique 1 concepto. 
 
 En principio para el *treinte de agosto* pero con probabilidad de pedir un fin de semana más si lo necesitan urgentemente.
 
@@ -59,7 +59,7 @@ En principio para el *treinte de agosto* pero con probabilidad de pedir un fin d
 https://implicit.harvard.edu/implicit/selectatest.html
 
 
-![](/courses/tecyeco/img/bias.png)
+![](/images/site/borde.jpg)
 
 
 ### Neutralidad, sesgo y justicia
@@ -100,8 +100,7 @@ No se imagine cosas. Vea cómo son en la realidad. En lugar de juzgar desde un p
 
 ¿el problema es la desigualdad o los desastres que causa?
 
-
-![](/courses/tecyeco/img/1.png)
+## Preguntas
 
 Algoritmos y Neutralidad
 - ¿Es posible diseñar algoritmos verdaderamente neutrales? ¿Sería un régimen donde las decisiones son tomadas exclusivamente por algoritmos, o más bien uno donde los humanos delegan su poder en las máquinas?
