@@ -103,6 +103,28 @@ No se imagine cosas. Vea cómo son en la realidad. En lugar de juzgar desde un p
 
 ![](/courses/tecyeco/img/1.png)
 
+Algoritmos y Neutralidad
+- ¿Es posible diseñar algoritmos verdaderamente neutrales? ¿Sería un régimen donde las decisiones son tomadas exclusivamente por algoritmos, o más bien uno donde los humanos delegan su poder en las máquinas?
+- ¿Existen algoritmos que contrarresten las intenciones o manejo que le den las personas a las IA en cuanto al uso de la información para el control social?
+
+IA, Poder, y Control
+- Si la IA actual tiende a concentrar el poder y facilitar el control autoritario, ¿sería posible desarrollar tecnologías de IA que promuevan activamente la igualdad, la participación y la deliberación democrática?
+- ¿La tendencia de la IA a concentrar el poder y facilitar la vigilancia es una característica inevitable de la tecnología, o es el resultado de cómo elegimos implementarla en nuestras sociedades?
+- ¿Hasta qué punto pueden las regulaciones mitigar los efectos del totalitarismo democrático?
+- Cómo afectaría un "totalitarismo de las máquinas" a la diversidad y la pluralidad de ideas?
+- ¿Qué medidas se pueden tomar para evitar que la IA cause división social?
+- ¿Cómo podemos evitar el uso de la IA para crear un régimen tecnocrático o autoritario?
+
+Democracia
+- ¿Qué rol deberían tener los ciudadanos en la reconfiguración de la democracia digital?
+- ¿Qué medidas se pueden tomar para integrar la IA en un sistema democrático que fomente y apoye la participación ciudadana?
+- ¿La IA influye en la cohesión social?
+- ¿Estamos poniendo en juego nuestra libertad y privacidad por la obtención de beneficios? ¿Cuál es el límite aceptable para la vigilancia y el control en nombre de la eficiencia y la seguridad?
+
+Cámaras de Eco
+- Los algoritmos pueden filtrar información que desafía las creencias del usuario, limitando su exposición a diversas perspectivas y dificultando el diálogo constructivo. ¿Qué responsabilidad tienen las plataformas digitales en la creación y mantenimiento de las "cámaras de eco"?
+- ¿Se tiene claro cuáles son los grupos o esferas sociales que la IA ha beneficiado o esto no ha sido relevante de analizar?
+
 ![](/courses/tecyeco/img/2.png)
 
 
