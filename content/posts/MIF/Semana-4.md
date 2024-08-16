@@ -11,7 +11,7 @@ menu:
     weight: 5
 tags: ["Metodología de la investigación filosófica", "Pregrado - Filosofía"]
 math: true
-draft: true
+draft: false
 
 ---
 
@@ -25,7 +25,6 @@ draft: true
 
 - Las enseñanzas de los estudiantes pasados: 
 - ¿Qué se puede aprender del trabajo de los otros tesistas?
-  
 - Comentarios línea a línea 
   
 ## Tareas
