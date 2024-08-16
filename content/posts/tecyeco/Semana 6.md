@@ -61,6 +61,13 @@ https://implicit.harvard.edu/implicit/selectatest.html
 
 ![](/images/site/borde.jpg)
 
+Evaluación del curso
+https://forms.office.com/Pages/ResponsePage.aspx?id=MRalrP4ADUmRqxY--HJg7lFWTy-_8_9JroE956aVo65UNTA1RjlHNDlDS0I1RktHSDdJU1dTSDBCOC4u
+
+
+![](/images/site/borde.jpg)
+ 
+
 
 ### Neutralidad, sesgo y justicia
 
@@ -73,6 +80,8 @@ No hay una sola tesis sobre qué es el sesgo y qué es la justicia. Más bien, s
 
 
 ¿Cuál es el problema de los sesgos?
+
+
 
 #### Aproximaciones liberales
 
