@@ -30,7 +30,7 @@ draft: false
 
 Exposición oral de 3 conceptos, a 3 personas, en 15 minutos. No es posible hacer una presentación de 45 minutos a 3 personas juntas. Deben ser 3 presentaciones de 15 minutos cada una de a 1 persona en donde se explique 1 concepto. 
 
-En principio para el *treinte de agosto* pero con probabilidad de pedir un fin de semana más si lo necesitan urgentemente.
+En principio para el *treinta de agosto* pero con probabilidad de pedir un fin de semana más si lo necesitan urgentemente.
 
 | Criterio                     | Descripción                                                                                                                                                                           | Puntuación 1 | Puntuación 2 | Puntuación 3 | Promedio |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------ | ------------ | -------- |
