@@ -34,7 +34,6 @@ En principio para el *treinta de agosto* pero con probabilidad de pedir un fin d
 
 | Criterio                     | Descripción                                                                                                                                                                           | Puntuación 1 | Puntuación 2 | Puntuación 3 | Promedio |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------ | ------------ | -------- |
-<!-- | Uso de Material Didáctico    | - Utiliza material visual (infografías, tabla, dibujos, etc) de forma efectiva para apoyar la presentación. <br> - Incorpora ejemplos concretos y relevantes para ilustrar conceptos. | 0-5          | 0-5          | 0-5          |          | -->
 | Manejo del Tema              | - Demuestra un conocimiento del tema fundamentado en la literatura. <br> - Explica de manera clara y coherente los conceptos clave.                                                                        | 0-10         | 0-10         | 0-10         |          |
 | Claridad y Precisión         | - Expresa las ideas de forma clara y comprensible. <br> - Utiliza un lenguaje preciso y técnico cuando es necesario.                                                                  | 0-5          | 0-5          | 0-5          |          |
 | Creatividad                  | - Hace uso de estrategias originales y creativas en la exposición. <br> - Propone soluciones innovadoras para los desafíos planteados.                                                | 0-5          | 0-5          | 0-5          |          |
@@ -66,7 +65,7 @@ https://forms.office.com/Pages/ResponsePage.aspx?id=MRalrP4ADUmRqxY--HJg7lFWTy-_
 
 
 ![](/images/site/borde.jpg)
- 
+
 
 
 ### Neutralidad, sesgo y justicia
