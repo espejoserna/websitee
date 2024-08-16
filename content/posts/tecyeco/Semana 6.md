@@ -30,7 +30,7 @@ draft: false
 
 Exposición oral de 3 conceptos, a 3 personas, en 15 minutos. No es posible hacer una presentación de 45 minutos a 3 personas juntas. Deben ser 3 presentaciones de 15 minutos cada una de a 1 persona en donde se explique 1 concepto. 
 
-En principio para el *treinta de agosto* pero con probabilidad de pedir un fin de semana más si lo necesitan urgentemente.
+En principio para el *treinta de agosto* pero con probabilidad de pedir un fin de semana más si lo necesitan urgentemente. Subir a la carpeta correspondiente en Teams. 
 
 | Criterio                     | Descripción                                                                                                                                                                           | Puntuación 1 | Puntuación 2 | Puntuación 3 | Promedio |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------ | ------------ | -------- |
@@ -69,7 +69,7 @@ El texto es un texto filosófico expositivo cuya finalidad es ofrecer una aproxi
 No hay una sola tesis sobre qué es el sesgo y qué es la justicia. Más bien, se examina el sesgo a la luz de diferentes conceptos desde la filosofía política. No va encontra del capitalismo, ni de posturas marxistas. Más bien, explica cómo es que desde diferentes concepciones de la justicia se puede decir que los algoritmos no son justos, están sesgados, y qué significa en cada caso. 
 
 
-> "mi propósito no es ofrecer una visión general de la filosofia política como tal, sino mostrar qué es lo que implica para la reflexión sobre el sego y la discriminación en, y en virtud de, la LA y la robótica." (p, 58)
+> "mi propósito no es ofrecer una visión general de la filosofia política como tal, sino mostrar qué es lo que implica para la reflexión sobre el sego y la discriminación en, y en virtud de, la IA y la robótica." (p, 58)
 
 
 ¿Cuál es el problema de los sesgos?
