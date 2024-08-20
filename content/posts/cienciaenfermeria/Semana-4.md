@@ -1,18 +1,18 @@
 ---
-title: Semana 4
-linktitle: Semana 4
-toc: true
-type: docs
-date: "2019-05-05T00:00:00+01:00"
-draft: true
+title: "Semana 4"
+date: 2020-06-08T08:06:25+06:00
+description: Semana 4
+hero: /images/hero/universo.jpg
 menu:
-  cienciaenfermeria:
+  sidebar:
     name: Semana 4
-    weight: 4
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 4
+    identifier: enfsem4
+    parent: cienciaenfermeria-folder
+    weight: 5
+tags: ["Filosofía de la ciencia", "Doctorado - Enfermería"]
+math: true
 ---
+
 
 ![](/images/site/borde.jpg)
 
