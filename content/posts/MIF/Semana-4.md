@@ -1,12 +1,12 @@
 ---
 title: "Semana 4"
 date: 2020-06-08T08:06:25+06:00
-description: Semana 3
+description: Semana 4
 hero: /images/hero/banner.jpg
 menu:
   sidebar:
     name: Semana 3
-    identifier: MIFSemana 3
+    identifier: MIFSemana 4
     parent: MIF-folder
     weight: 5
 tags: ["Metodología de la investigación filosófica", "Pregrado - Filosofía"]
