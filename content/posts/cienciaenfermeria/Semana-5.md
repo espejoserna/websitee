@@ -42,15 +42,15 @@ Todas las oraciones deben poder ser determinadas como verdaderas o falsas por me
 
 Ejemplos
 
-"El pasto es verde". ¿Cómo se verifica eso por medio de la observación?
+1. "El pasto es verde". ¿Cómo se verifica eso por medio de la observación?
 
-"El cerebro de los humanos es blando". ¿Cómo se verifica eso por medio de la observación?
+1. "El cerebro de los humanos es blando". ¿Cómo se verifica eso por medio de la observación?
 
-"La bala de cañón pesa 20 kg". ¿Cómo se verifica eso por medio de la observación?
+1. "La bala de cañón pesa 20 kg". ¿Cómo se verifica eso por medio de la observación?
 
-"Los electrones se mueven alrededor del núcleo". ¿Cómo se verifica eso por medio de la observación?
+1. "Los electrones se mueven alrededor del núcleo". ¿Cómo se verifica eso por medio de la observación?
 
-"2 + 2 = 4". ¿Cómo se verifica eso por medio de la observación?
+1. "2 + 2 = 4". ¿Cómo se verifica eso por medio de la observación?
 
 No es fácil, pero así garantizamos que hablamos de algo científico y no "metafísica"
 
