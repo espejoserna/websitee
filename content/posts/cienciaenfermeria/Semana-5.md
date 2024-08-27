@@ -239,6 +239,9 @@ starting points for derivations; they are not to be tested, but rather taken as 
 theory. In contrast, postulates, also called deduced propositions or theorems, are statements of supposition regarding the type of relation between the concepts of the theory.
 A theory’s explanatory power is found in its postulates.” (Fawcett, J. (1978) The relationship between theory and research: a double helix. ANS: Advances in Nursing Science, 1 (1), 36–39. p. 51)
 
+![](/images/site/borde.jpg)
+
+
 ## Variaciones: Compte y Schlick
 
 Compte: 
