@@ -1,18 +1,18 @@
 ---
-title: Semana 5
-linktitle: Semana 5
-toc: true
-type: docs
-date: "2019-05-05T00:00:00+01:00"
-draft: true
+title: "Semana 5"
+date: 2020-06-08T08:06:25+06:00
+description: Semana 5
+hero: /images/hero/universo.jpg
 menu:
-  cienciaenfermeria:
+  sidebar:
     name: Semana 5
-    weight: 5
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 4
+    identifier: enfsem5
+    parent: cienciaenfermeria-folder
+    weight: 6
+tags: ["Filosofía de la ciencia", "Doctorado - Enfermería"]
+math: true
 ---
+
 
 ![](/images/site/borde.jpg)
 
@@ -28,6 +28,7 @@ Empirismo -> Idealismo trascendental -> Empirismo lógico
 ¿Cómo distinguir entre la teoría que habla de cosas meramente inventadas y la teoía científica?
 
 ![](/images/site/borde.jpg)
+
 ## La idea central
 
 {{% alert note %}}
@@ -69,11 +70,11 @@ Axiomas presentan relaciones entre los términos teóricos y reglas de correspon
 
 ### ¿Qué se logra?
 
-Definir los términos teóricos
+1. Definir los términos teóricos
 
-Garantizar la significabilidad cognitiva de los términos teóricos
+1. Garantizar la significabilidad cognitiva de los términos teóricos
 
-Especificar los procedimientos experimentales admisibles para aplicar una teoría a los fenómenos.
+1. Especificar los procedimientos experimentales admisibles para aplicar una teoría a los fenómenos.
 
 Los positivistas lógicos buscaban eliminar la referencia a entidades \*metafísicas\* de su lenguaje. Pero sin que eso significara dejar el lenguaje sólo con términos diréctamente observables.
 
