@@ -25,14 +25,14 @@ https://youtu.be/brDxmWk2jMQ?t=148
 
 Empirismo -> Idealismo trascendental -> Empirismo lógico
 
-¿Cómo distinguir entre la teoría que habla de cosas meramente inventadas y la teoía científica?
+¿Cómo distinguir entre la teoría que habla de cosas meramente inventadas y la teoría científica?
 
 ![](/images/site/borde.jpg)
 
 ## La idea central
 
 {{% alert note %}}
-Las teorías científicas se deben poder entender como cálculos axiomáticos con una interpretación observacional en términos de reglas de correspondencia ( or reglas puente) que especifican los procedimientos experimentales admisibles para aplicar una teoría a los fenómenos.
+Las teorías científicas se deben poder entender como cálculos axiomáticos con una interpretación observacional en términos de reglas de correspondencia ( o reglas puente) que especifican los procedimientos experimentales admisibles para aplicar una teoría a los fenómenos.
 {{% /alert %}}
 
 
