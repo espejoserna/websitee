@@ -1,18 +1,17 @@
 ---
-title: Semana 6
-linktitle: Semana 6
-toc: true
-type: docs
-date: "Sun Feb  6 17:36:27 2022"
-draft: false
+title: "Semana 6"
+date: 2020-06-08T08:06:25+06:00
+description: Semana 6
+hero: /images/hero/banner.jpg
 menu:
-  investigacionfilo:
+  sidebar:
     name: Semana 6
-    weight: 6
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
-draft: true
+    identifier: MIFSemana 6
+    parent: MIF-folder
+    weight: 7
+tags: ["Metodología de la investigación filosófica", "Pregrado - Filosofía"]
+math: true
+draft: false
 
 ---
 
@@ -22,9 +21,7 @@ draft: true
 
 ## Comentarios línea a línea
 
- Primer texto  
 
- Segundo texto: 
 
 
 ## Tareas 
