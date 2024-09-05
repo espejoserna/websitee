@@ -1,17 +1,16 @@
 ---
-title: Semana 6
-linktitle: Semana 6
-toc: true
-type: docs
-date: "2019-05-05T00:00:00+01:00"
-draft: true
+title: "Semana 6"
+date: 2020-06-08T08:06:25+06:00
+description: Semana 6
+hero: /images/hero/universo.jpg
 menu:
-  cienciaenfermeria:
+  sidebar:
     name: Semana 6
-    weight: 6
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 5
+    identifier: enfsem6
+    parent: cienciaenfermeria-folder
+    weight: 7
+tags: ["Filosofía de la ciencia", "Doctorado - Enfermería"]
+math: true
 ---
 
 ![](/images/site/borde.jpg)
@@ -50,6 +49,8 @@ weight: 5
 
 
 ## Juicios analíticos
+
+Se supone que una de las bases del positivismo lógico son los juicios analíticos: verdades en las que podemos basarnos sólo en virtud de la lógica. 
 
 * Leibniz: juicios verdaderos en todos los mundos posibles
 * Hume: juicios sobre relaciones de ideas
