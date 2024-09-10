@@ -1,17 +1,16 @@
 ---
-title: Semana 7
-linktitle: Semana 7
-toc: true
-type: docs
-date: "2019-05-05T00:00:00+01:00"
-draft: true
+title: "Semana 7"
+date: 2020-06-08T08:06:25+06:00
+description: Semana 7
+hero: /images/hero/universo.jpg
 menu:
-  cienciaenfermeria:
+  sidebar:
     name: Semana 7
-    weight: 7
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+    identifier: enfsem7
+    parent: cienciaenfermeria-folder
+    weight: 8
+tags: ["Filosofía de la ciencia", "Doctorado - Enfermería"]
+math: true
 ---
 
 ![](/images/site/borde.jpg)
@@ -49,8 +48,33 @@ weight: 2
 ### Extra: Fraude
 
 1. Fraude en medicina: Woo Suk Hwang
+
+El fraude en medicina de Woo Suk Hwang, un científico surcoreano, fue uno de los mayores escándalos científicos de principios del siglo XXI. Hwang alcanzó fama mundial en 2004 y 2005, cuando publicó en revistas prestigiosas como Science que había logrado un avance revolucionario: la clonación exitosa de células madre embrionarias humanas específicas de pacientes. Su trabajo fue financiado con importantes fondos gubernamentales y privados. Este descubrimiento prometía aplicaciones en medicina regenerativa, ya que permitiría crear células madre personalizadas para tratar enfermedades sin riesgo de rechazo inmunológico.
+
+- Hwang y su equipo afirmaron haber clonado una  células madre embrionarias humanas y en 2005 anunciaron que habían clonado 11 líneas diferentes, personalizadas a partir del ADN de pacientes. Posteriormente, investigaciones revelaron que gran parte de los datos presentados en estos estudios habían sido falsificados. No se obtuvieron líneas de células madre personalizadas ni se logró clonar con éxito células madre humanas.
+
+-  Se descubrió que Hwang había obtenido óvulos de manera poco ética, ya que algunos miembros de su equipo de investigación habían sido **presionados** a donar óvulos. Esto violaba los estándares éticos internacionales, ya que el consentimiento no fue completamente libre. (Incluso, algunos de los óvulos se habían comprado.)
+
+- En 2006, un comité de la Universidad Nacional de Seúl, donde Hwang trabajaba, confirmó que los datos de sus artículos de 2004 y 2005 habían sido falsificados. Como resultado, los artículos fueron retractados, y Hwang fue acusado de fraude, malversación de fondos y violación de leyes bioéticas.
+
 2. Fraude en psicología: Diederik Stapel
+
+Stapel, que trabajaba en la Universidad de Tilburg, fue un investigador muy prolífico y respetado hasta que en 2011 se descubrió que había fabricado y manipulado datos en numerosos estudios a lo largo de varios años, incluyendo la investigación con colegas y estudiantes doctorales. 
+
+Stapel no solo manipulaba datos, sino que en muchos casos inventaba completamente los resultados de sus investigaciones. Se saltaba el proceso experimental real y creaba bases de datos falsas que se ajustaban a las hipótesis que deseaba probar. Luego, publicaba los resultados fraudulentos en revistas académicas de prestigio.
+
+La magnitud del fraude de Stapel fue asombrosa. Se descubrió que al menos 58 de sus publicaciones contenían datos falsificados. A lo largo de su carrera, había recibido numerosos premios y financiación por sus investigaciones, lo que aumentó el impacto del escándalo cuando se reveló la verdad.
+
 3. Sokal affair
+
+Alan Sokal buscaba exponer lo que él consideraba la falta de rigor intelectual en ciertos círculos de las humanidades y ciencias sociales, particularmente en los estudios culturales y el postmodernismo. 
+
+Sokal escribió un artículo titulado "Transgressing the Boundaries: Towards a Transformative Hermeneutics of Quantum Gravity", que fue enviado a la revista académica *Social Text*, una publicación que se centraba en los estudios culturales y el pensamiento crítico. El artículo parecía adoptar un lenguaje típico del postmodernismo y la teoría crítica, abordando temas de ciencia desde un ángulo filosófico. 
+
+El artículo proponía, entre otras cosas, que la gravedad cuántica era una construcción social y que los límites entre la ciencia y las humanidades eran arbitrarios. Sokal utilizó un lenguaje oscuro, con citas de pensadores postmodernistas prominentes, y mezcló conceptos científicos malinterpretados con ideas filosóficas desconectadas.
+
+Social Text lo aceptó y lo publicó en su edición de primavera-verano de 1996. Lo hicieron sin someterlo a una revisión por pares rigurosa, lo que fue una de las críticas que Sokal quiso resaltar con su experimento.  El mismo día en que su artículo fue publicado, Sokal reveló en otra revista, *Lingua Franca*, que su artículo era en realidad una broma intencional. 
+
 
 ![](/images/site/borde.jpg)
 
@@ -209,4 +233,4 @@ ous. Truth is achieved when we have exhausted all attempts at falsifying a propo
 
 ### Lectura para la próxima clase 
 - Chalmers - Qué es esa cosa que se llama ciencia - Cap. 8
-- Kuhn - La estructura de la revoluciones científicas - 1-10 
+( Kuhn - La estructura de la revoluciones científicas - 1-10) 
