@@ -30,6 +30,6 @@ draft: true
 
 Tarea 1: Reseña de un texto.
   
-Tarea 2: Segunda versión *completa* del anteproyecto, al menos dos párrafos por sección.
+Tarea 2: Segunda versión del anteproyecto, al menos dos párrafos por sección.
  
 

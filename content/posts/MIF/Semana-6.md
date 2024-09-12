@@ -22,8 +22,6 @@ draft: false
 ## Comentarios línea a línea
 
 
-
-
 ## Tareas 
 
  - Tarea 1: Reseña de un texto.

@@ -1,18 +1,17 @@
 ---
-title: Semana 7
-linktitle: Semana 7
-toc: true
-type: docs
-date: "Sun Feb  6 17:36:27 2022"
-draft: false
+title: "Semana 7"
+date: 2020-06-08T08:06:25+06:00
+description: Semana 6
+hero: /images/hero/banner.jpg
 menu:
-  investigacionfilo:
+  sidebar:
     name: Semana 7
-    weight: 7
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
-draft: true
+    identifier: MIFSemana 7
+    parent: MIF-folder
+    weight: 8
+tags: ["Metodología de la investigación filosófica", "Pregrado - Filosofía"]
+math: true
+draft: false
 
 ---
 
@@ -34,6 +33,6 @@ Tarea 1: Reseña de un texto.
   
 Tarea 2: Escribir 1000 palabras sobre una pregunta de investigación filosófica relacionada con su tema de tesis. Preséntele al lector la pregunta, señale qué la hace problemática. Suponga que es un estudiante de primer semestre y explique el vocabulario técnico que utilice y por qué hay una cuestión filosófica ahí.  Aquí el ejercicio principal consiste en ejercitarse en presentar y explicar la pregunta problema de su investigación.
 
-Tarea 3: Una segunda versión de una sección del ante proyecto (una página).
+Tarea 3: Revisar el formato de anteproyecto (Revisen los comentarios al margen: ¿Queda clara cada una de las secciones?) y una primera  versión de una sección (un párrafo o dos).
  
 
