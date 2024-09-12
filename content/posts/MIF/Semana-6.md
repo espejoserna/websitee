@@ -28,5 +28,4 @@ draft: false
 
  - Tarea 2: Reseña de un texto.
 
- - Tarea 3: Revisar el formato de anteproyecto (Revisen los comentarios al margen: ¿Queda clara cada una de las secciones?) y una primera  versión de una sección (un párrafo o dos).
 
