@@ -1,18 +1,18 @@
 ---
-title: Semana 8
-linktitle: Semana 8
-toc: true
-type: docs
-date: "2019-05-05T00:00:00+01:00"
-draft: true
+title: "Semana 8"
+date: 2020-06-08T08:06:25+06:00
+description: Semana 8
+hero: /images/hero/universo.jpg
 menu:
-  cienciaenfermeria:
+  sidebar:
     name: Semana 8
-    weight: 8
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+    identifier: enfsem8
+    parent: cienciaenfermeria-folder
+    weight: 9
+tags: ["Filosofía de la ciencia", "Doctorado - Enfermería"]
+math: true
 ---
+
 
 ![](/images/site/borde.jpg)
 
@@ -248,9 +248,7 @@ Feyerabend está de acuerdo con la estrategia general de mirar la historia de la
 
 - La noción de paradigma cierra el conocimiento (no hay razón para avanzar) y limita la libertad humana. "Estudipez profesional.
 
-- No hay un método científico; "everything goes".
-
-- 
+- No hay un método científico; "everything goes". 
 
 
 ## Preguntas para orientar la selección de tema del ensayo
