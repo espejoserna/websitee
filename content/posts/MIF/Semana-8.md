@@ -1,18 +1,17 @@
 ---
-title: Semana 9
-linktitle: Semana 9
-toc: true
-type: docs
-date: "Sun Feb  6 17:36:27 2022"
-draft: false
+title: "Semana 8"
+date: 2020-06-08T08:06:25+06:00
+description: Semana 8
+hero: /images/hero/banner.jpg
 menu:
-  investigacionfilo:
-    name: Semana 9
+  sidebar:
+    name: Semana 8
+    identifier: MIFSemana 8
+    parent: MIF-folder
     weight: 9
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
-draft: true
+tags: ["Metodología de la investigación filosófica", "Pregrado - Filosofía"]
+math: true
+draft: false
 
 ---
 
