@@ -250,6 +250,28 @@ Feyerabend está de acuerdo con la estrategia general de mirar la historia de la
 
 - No hay un método científico; "everything goes". 
 
+## Alternativa: programas de investigación científica
+
+Imre Lakatosh está de acuerdo con la estrategia general de mirar la historia de la ciencia pero rechaza las conclusiones de Kuhn y Feyerabend.
+
+- La historia de la ciencia no es como Kuhn la describe; no hay ciencia normal pero sí hay programas de investigación. 
+
+- La noción de paradigma no se ajusta. La idea de la falsación Popperiana, tampoco. LA noción de programa de investigación es mejor.
+
+- Programa de investigación: núcleo duro, convencionalmente aceptado, y una heurística positiva que define problemas, esoba la construcción de hipótesis auxiliares, prevee anomalías y las convierte victoriasamente en ejemplos. 
+
+- Un programa progresa si su desarrollo teórico se anticipa a su crecimiento empírico; un programa se estanca si sus explicaciones teóricas son _ad hoc_. (El modelo ptolemático de Brach da cuenta de los movimiento retrógrados pero sólo de manera _ad hoc_.)
+
+- No son las anomalías sino la heurísitca positiva la que determina los problemas. 
+
+- Las revoluciones científicas consisten programas de investigación que desautorizan y anulan otros programas de investigación.
+
+
+
+
+### Lectura para la próxima clase 
+- Harding - Ciencia y Feminismo - Cap. 1
+
 
 ## Preguntas para orientar la selección de tema del ensayo
 
