@@ -1,18 +1,17 @@
 ---
-title: Semana 8
-linktitle: Semana 8
-toc: true
-type: docs
-date: "Sun Feb  6 17:36:27 2022"
-draft: false
+title: "Semana 9"
+date: 2020-06-08T08:06:25+06:00
+description: Semana 
+hero: /images/hero/banner.jpg
 menu:
-  investigacionfilo:
-    name: Semana 8
-    weight: 8
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
-draft: true
+  sidebar:
+    name: Semana 9
+    identifier: MIFSemana 9
+    parent: MIF-folder
+    weight: 10
+tags: ["Metodología de la investigación filosófica", "Pregrado - Filosofía"]
+math: true
+draft: false
 
 ---
 
@@ -30,6 +29,6 @@ draft: true
 
 Tarea 1: Reseña de un texto.
   
-Tarea 2: Primera versión *completa* del anteproyecto, al menos un párrafo por sección.
+Tarea 2: Tercera versión *completa* del anteproyecto.
  
 
