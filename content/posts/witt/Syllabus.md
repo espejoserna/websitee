@@ -214,8 +214,9 @@ Durante la asignatura, se enseñarán habilidades hermenéuticas esenciales que 
 
 ## Evaluación
 
-### Taller TLP
+### Talleres
 
+Actividades para realizar en casa y en clase que servirán de pasos intermedios en el aprendizaje. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento de cada taller.
 
 ### Ponencia
 
