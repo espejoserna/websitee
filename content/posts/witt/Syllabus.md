@@ -6,8 +6,8 @@ hero: /images/hero/fliegenglas.jpg
 menu:
   sidebar:
     name: Syllabus
-    identifier: edatossyllabus
-    parent: eticadatos-folder
+    identifier: wittsyllabus
+    parent: witt-folder
     weight: 1
 tags: ["Wittgenstein", "Pregrado - Filosofía"]
 math: true
@@ -37,129 +37,189 @@ Durante la asignatura, se enseñarán habilidades hermenéuticas esenciales que 
 
 ![](/images/site/borde.jpg)
 
-## Plan
+## **Plan**
 
-## Lunes 20 Enero
-Semana 1
-Vida y obra de Ludwig Wittgenstein. Presentación del programa y las reglas de juego del seminario.
-Actividades
-Presentación a cargo del profesor: las introducciones del TLP y las IF. Taller de filosofía por recortes. Taller sobre el programa.
-Para la próxima
-Leer todo el Tractatus Logico-Philosophicus.
- 
-Lunes 27 Enero
-Semana 2
-La multiplicidad de interpretaciones del TLP.
-Actividades
-Taller sobre el orden del TLP. Presentación a cargo del profesor.
-Para la próxima
-Leer Tomasini, Cap 2 y Tomasini, Cap 3. Control de lectura.
- 
-Lunes 3 Febrero
-Semana 3
-Ontología y lógica
-Actividades
-Presentación de Tomasini, Cap 2 
-Presentación de Tomasini, Cap 3
-Para la próxima
-Leer Tomasini, Cap 4 y Tomasini, Cap 5. Control de lectura.
- 
-Lunes 10 Febrero
-Semana 4
-Lógica, matemáticas y ciencia
-Actividades
-Presentación de Tomasini, Cap 4 
-Presentación de Tomasini, Cap 5 
-Para la próxima
-Leer Tomasini, Cap 6 y Tomasini, Cap 7. Control de lectura.
- 
-Lunes 17 Febrero
-Semana 5
-Solipsismo, misticismo y filosofía
-Actividades
-Presentación de Tomasini, Cap 6 
-Presentación de Tomasini, Cap 7 
-Presentación de Tomasini, Cap 8 
-Para la próxima
-Segunda versión del taller de filosofía por recortes.
- 
-Lunes 24 Febrero
-Semana 6
-Interpretaciones propias del TLP
-Actividades
-Auto-evaluación y co-evaluación del taller de recortes.
-Para la próxima
-Leer IF Parte I, §§1-88. Control de lectura.
- 
-Lunes 3 Marzo
-Semana 7
-Crítica a la definición ostensiva
-Para la próxima
-Leer IF IF Parte I, §§ 89-133. Control de lectura.
- 
-Lunes 10 Marzo
-Semana 8
-La noción de filosofía
-Para la próxima
-Leer IF IF Parte I, §§ 134 - 242. Control de lectura.
+### **Lunes 20 de Enero**  
+#### *Semana 1*  
+**Vida y obra de Ludwig Wittgenstein.** Presentación del programa y las reglas de juego del seminario.  
 
- 
-Lunes 17 Marzo
-Semana 9
-Seguimiento de reglas
-Para la próxima
-Leer IF IF Parte I, §§ 243 - 275. Control de lectura.
+##### **Actividades**  
+- Presentación a cargo del profesor: *Las introducciones del TLP y las IF.*  
+- Taller de filosofía por recortes.  
+- Taller sobre el programa.  
 
- 
-Lunes 24 Marzo
-Semana 10
-ENTREGA segundo corte
- 
-Lunes 31 Marzo
-Semana 11
-Lenguaje privado
-Para la próxima
-Leer IF IF Parte I, §§276 - 307. Control de lectura.
- 
-Lunes 7 Abril
-Semana 12
-Lo interno y lo externo
-Para la próxima
-Leer IF Parte II, 11. Control de lectura.
- 
-Lunes 14 Abril
-Semana santa
- 
-Lunes 21 Abril
-Semana 13
-Ver y ver como
-Para la próxima
-Leer IF Parte I, §§1-88. Control de lectura.
- 
-Lunes 28 Abril
-Semana 14
-Tema a convenir: Wittgenstein o influenciados por Wittgenstein
- 
-Lunes 5 Mayo
-Semana 15
-Tema a convenir: Wittgenstein o influenciados por Wittgenstein
- 
-Lunes 12 Mayo
-Semana 16
-Tema a convenir: Wittgenstein o influenciados por Wittgenstein
+##### **Para la próxima**  
+- Leer todo el *Tractatus Logico-Philosophicus*.  
 
+---
+
+### **Lunes 27 de Enero**  
+#### *Semana 2*  
+**La multiplicidad de interpretaciones del TLP.**  
+
+##### **Actividades**  
+- Taller sobre el orden del TLP.  
+- Presentación a cargo del profesor.  
+
+##### **Para la próxima**  
+- Leer *Tomasini, Cap. 2* y *Tomasini, Cap. 3.*  
+- Control de lectura.  
+
+---
+
+### **Lunes 3 de Febrero**  
+#### *Semana 3*  
+**Ontología y lógica**  
+
+##### **Actividades**  
+- Presentación de *Tomasini, Cap. 2.*  
+- Presentación de *Tomasini, Cap. 3.*  
+
+##### **Para la próxima**  
+- Leer *Tomasini, Cap. 4* y *Tomasini, Cap. 5.*  
+- Control de lectura.  
+
+---
+
+### **Lunes 10 de Febrero**  
+#### *Semana 4*  
+**Lógica, matemáticas y ciencia**  
+
+##### **Actividades**  
+- Presentación de *Tomasini, Cap. 4.*  
+- Presentación de *Tomasini, Cap. 5.*  
+
+##### **Para la próxima**  
+- Leer *Tomasini, Cap. 6* y *Tomasini, Cap. 7.*  
+- Control de lectura.  
+
+---
+
+### **Lunes 17 de Febrero**  
+#### *Semana 5*  
+**Solipsismo, misticismo y filosofía**  
+
+##### **Actividades**  
+- Presentación de *Tomasini, Cap. 6.*  
+- Presentación de *Tomasini, Cap. 7.*  
+- Presentación de *Tomasini, Cap. 8.*  
+
+##### **Para la próxima**  
+- Segunda versión del taller de filosofía por recortes.  
+
+---
+
+### **Lunes 24 de Febrero**  
+#### *Semana 6*  
+**Interpretaciones propias del TLP**  
+
+##### **Actividades**  
+- Autoevaluación y coevaluación del taller de recortes.  
+
+##### **Para la próxima**  
+- Leer *IF Parte I, §§1-88.*  
+- Control de lectura.  
+
+---
+
+### **Lunes 3 de Marzo**  
+#### *Semana 7*  
+**Crítica a la definición ostensiva**  
+
+##### **Para la próxima**  
+- Leer *IF Parte I, §§89-133.*  
+- Control de lectura.  
+
+---
+
+### **Lunes 10 de Marzo**  
+#### *Semana 8*  
+**La noción de filosofía**  
+
+##### **Para la próxima**  
+- Leer *IF Parte I, §§134-242.*  
+- Control de lectura.  
+
+---
+
+### **Lunes 17 de Marzo**  
+#### *Semana 9*  
+**Seguimiento de reglas**  
+
+##### **Para la próxima**  
+- Leer *IF Parte I, §§243-275.*  
+- Control de lectura.  
+
+---
+
+### **Lunes 24 de Marzo**  
+#### *Semana 10*  
+**ENTREGA segundo corte**  
+
+---
+
+### **Lunes 31 de Marzo**  
+#### *Semana 11*  
+**Lenguaje privado**  
+
+##### **Para la próxima**  
+- Leer *IF Parte I, §§276-307.*  
+- Control de lectura.  
+
+---
+
+### **Lunes 7 de Abril**  
+#### *Semana 12*  
+**Lo interno y lo externo**  
+
+##### **Para la próxima**  
+- Leer *IF Parte II, 11.*  
+- Control de lectura.  
+
+---
+
+### **Lunes 14 de Abril**  
+#### *Semana Santa*  
+
+---
+
+### **Lunes 21 de Abril**  
+#### *Semana 13*  
+**Ver y ver como**  
+
+##### **Para la próxima**  
+- Leer *IF Parte I, §§1-88.*  
+- Control de lectura.  
+
+---
+
+### **Lunes 28 de Abril**  
+#### *Semana 14*  
+**Tema a convenir: Wittgenstein o influenciados por Wittgenstein**  
+
+---
+
+### **Lunes 5 de Mayo**  
+#### *Semana 15*  
+**Tema a convenir: Wittgenstein o influenciados por Wittgenstein**  
+
+---
+
+### **Lunes 12 de Mayo**  
+#### *Semana 16*  
+**Tema a convenir: Wittgenstein o influenciados por Wittgenstein**  
 
 
 ![](/images/site/borde.jpg)
 
 ## Evaluación
 
-### Taller
-Actividad para asegurar el aprendizaje de los retos que implica la manera en que se usan los datos de las personas en las tecnologías del siglo XXI y los retos éticos que conlleva.
+### Taller TLP
+
 
 ### Ponencia
 
-La relatoría debe incluir una reseña crítica del texto, que identifique sus principales argumentos, puntos fuertes y débiles, y lo compare con otras fuentes. Se deben destacar puntos clave para la discusión y formular preguntas abiertas. La presentación sdebe cubrir el tiempo asignado y fomentar la participación. Antes de la sesión, se ha de consultar con el profesor para incorporar sus comentarios y sugerencias.
+La relatoría debe incluir una reseña crítica del texto, que identifique sus principales argumentos, puntos fuertes y débiles, y lo compare con otras fuentes bien del propio Wittgenstein, bien de otro autor. Se deben destacar puntos clave para la discusión y formular preguntas abiertas. La presentación debe cubrir el tiempo asignado y fomentar la participación. Antes de la sesión, se ha de consultar con el profesor para incorporar sus comentarios y sugerencias.
 
 ####  Lista de chequeo para la relatoría
 
@@ -210,24 +270,6 @@ A convenir. Puede ser un ensayo, puede ser un video explicativo. Puede ser una o
 
 ## Bibliografía
 
-Coeckelbergh, M. (2023). *Filosofía política de la inteligencia artificial*. Ediciones Cátedra.
-
-Darwall, S. L. (2003). Theories of Ethics. En R. G. Frey & C. H. Wellman (Eds.), *A Companion to Applied Ethics* (pp. 17–37). Malden, MA: Wiley-Blackwell.
-
-Johnson, G. M. (2020). Algorithmic bias: on the implicit biases of social technology. *Synthese*, 198(10), 9941-9961.
-
-Moreno, J. C. (2020). *Ética de las tecnologías: Análisis crítico de perspectivas*. Ediciones USTA. Capítulos 1 y 2.
-
-Nguyen, C. T. (2021). How Twitter gamifies communication. En J. Lackey (Ed.), *Applied Epistemology* (pp. 410-436). New York, NY: Oxford University Press.
-
-O'Neil, C. (2016). *Weapons of Math Destruction*. Crown Publishers.
-
-Smith, M. (1994). *The Moral Problem*. Blackwell Publishers. Capítulo 1.
-
-Véliz, C. (2021). *Privacidad es poder: Datos, vigilancia y libertad en la era digital*. Debate. Capítulos 3 y 4.
-
-Véliz, C. (2021). Moral zombies: why algorithms are not moral agents. *AI and Society*, 36(2), 487-497.
-
-Véliz, C. (2022). Self-Presentation and Privacy Online. *Journal of Practical Ethics*, 2(9), 30-43.
-
-Zuboff, S. (2020). *La era del capitalismo de la vigilancia*. Paidós. Capítulos 2 y 4.
+- Tomasini, A. (2019). Explicando el Tractatus: Una introducción al primer Wittgenstein. Editorial Cactus.
+- Wittgenstein, L. (1989). Tractatus logico-philosophicus (T. Moro, Trad.). Gredos.
+- Wittgenstein, L. (2009). Investigaciones filosóficas (A. García Suárez, Trad.). Editorial Crítica.
