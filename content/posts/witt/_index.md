@@ -7,5 +7,5 @@ menu:
   sidebar:
     name: Wittgenstein
     identifier: witt-folder
-    weight: 100
+    weight: 400
 ---

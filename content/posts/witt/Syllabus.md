@@ -46,7 +46,6 @@ Durante la asignatura, se enseñarán habilidades hermenéuticas esenciales que 
 ##### **Actividades**  
 - Presentación a cargo del profesor: *Las introducciones del TLP y las IF.*  
 - Taller de filosofía por recortes.  
-- Taller sobre el programa.  
 
 ##### **Para la próxima**  
 - Leer todo el *Tractatus Logico-Philosophicus*.  
