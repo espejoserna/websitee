@@ -2,7 +2,7 @@
 title: "Syllabus"
 date: 2020-06-08T08:06:25+06:00
 description: Syllabus
-hero: /images/hero/fliegenglas.jpg
+hero: /images/hero/fliegenglassbanner.jpg
 menu:
   sidebar:
     name: Syllabus
