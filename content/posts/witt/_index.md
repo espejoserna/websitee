@@ -1,6 +1,6 @@
 ---
 title: "Seminario - Wittgenstein"
-hero: /images/hero/fliegenglas.jpg
+hero: /images/hero/fliegenglas2.jpg
 tags: ["Pregrado - Filosofía"]
 
 menu:

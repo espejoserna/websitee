@@ -1,8 +1,8 @@
 ---
 title: "Syllabus"
-date: 2020-06-08T08:06:25+06:00
+date: 2025-01-20
 description: Syllabus
-hero: /images/hero/fliegenglassbanner.jpg
+hero: /images/site/fliegenglas2.jpg
 menu:
   sidebar:
     name: Syllabus
@@ -38,175 +38,25 @@ Durante la asignatura, se enseñarán habilidades hermenéuticas esenciales que 
 ![](/images/site/borde.jpg)
 
 ## **Plan**
-
-### **Lunes 20 de Enero**  
-#### *Semana 1*  
-**Vida y obra de Ludwig Wittgenstein.** Presentación del programa y las reglas de juego del seminario.  
-
-##### **Actividades**  
-- Presentación a cargo del profesor: *Las introducciones del TLP y las IF.*  
-- Taller de filosofía por recortes.  
-
-##### **Para la próxima**  
-- Leer todo el *Tractatus Logico-Philosophicus*.  
-
----
-
-### **Lunes 27 de Enero**  
-#### *Semana 2*  
-**La multiplicidad de interpretaciones del TLP.**  
-
-##### **Actividades**  
-- Taller sobre el orden del TLP.  
-- Presentación a cargo del profesor.  
-
-##### **Para la próxima**  
-- Leer *Tomasini, Cap. 2* y *Tomasini, Cap. 3.*  
-- Control de lectura.  
-
----
-
-### **Lunes 3 de Febrero**  
-#### *Semana 3*  
-**Ontología y lógica**  
-
-##### **Actividades**  
-- Presentación de *Tomasini, Cap. 2.*  
-- Presentación de *Tomasini, Cap. 3.*  
-
-##### **Para la próxima**  
-- Leer *Tomasini, Cap. 4* y *Tomasini, Cap. 5.*  
-- Control de lectura.  
-
----
-
-### **Lunes 10 de Febrero**  
-#### *Semana 4*  
-**Lógica, matemáticas y ciencia**  
-
-##### **Actividades**  
-- Presentación de *Tomasini, Cap. 4.*  
-- Presentación de *Tomasini, Cap. 5.*  
-
-##### **Para la próxima**  
-- Leer *Tomasini, Cap. 6* y *Tomasini, Cap. 7.*  
-- Control de lectura.  
-
----
-
-### **Lunes 17 de Febrero**  
-#### *Semana 5*  
-**Solipsismo, misticismo y filosofía**  
-
-##### **Actividades**  
-- Presentación de *Tomasini, Cap. 6.*  
-- Presentación de *Tomasini, Cap. 7.*  
-- Presentación de *Tomasini, Cap. 8.*  
-
-##### **Para la próxima**  
-- Segunda versión del taller de filosofía por recortes.  
-
----
-
-### **Lunes 24 de Febrero**  
-#### *Semana 6*  
-**Interpretaciones propias del TLP**  
-
-##### **Actividades**  
-- Autoevaluación y coevaluación del taller de recortes.  
-
-##### **Para la próxima**  
-- Leer *IF Parte I, §§1-88.*  
-- Control de lectura.  
-
----
-
-### **Lunes 3 de Marzo**  
-#### *Semana 7*  
-**Crítica a la definición ostensiva**  
-
-##### **Para la próxima**  
-- Leer *IF Parte I, §§89-133.*  
-- Control de lectura.  
-
----
-
-### **Lunes 10 de Marzo**  
-#### *Semana 8*  
-**La noción de filosofía**  
-
-##### **Para la próxima**  
-- Leer *IF Parte I, §§134-242.*  
-- Control de lectura.  
-
----
-
-### **Lunes 17 de Marzo**  
-#### *Semana 9*  
-**Seguimiento de reglas**  
-
-##### **Para la próxima**  
-- Leer *IF Parte I, §§243-275.*  
-- Control de lectura.  
-
----
-
-### **Lunes 24 de Marzo**  
-#### *Semana 10*  
-**ENTREGA segundo corte**  
-
----
-
-### **Lunes 31 de Marzo**  
-#### *Semana 11*  
-**Lenguaje privado**  
-
-##### **Para la próxima**  
-- Leer *IF Parte I, §§276-307.*  
-- Control de lectura.  
-
----
-
-### **Lunes 7 de Abril**  
-#### *Semana 12*  
-**Lo interno y lo externo**  
-
-##### **Para la próxima**  
-- Leer *IF Parte II, 11.*  
-- Control de lectura.  
-
----
-
-### **Lunes 14 de Abril**  
-#### *Semana Santa*  
-
----
-
-### **Lunes 21 de Abril**  
-#### *Semana 13*  
-**Ver y ver como**  
-
-##### **Para la próxima**  
-- Leer *IF Parte I, §§1-88.*  
-- Control de lectura.  
-
----
-
-### **Lunes 28 de Abril**  
-#### *Semana 14*  
-**Tema a convenir: Wittgenstein o influenciados por Wittgenstein**  
-
----
-
-### **Lunes 5 de Mayo**  
-#### *Semana 15*  
-**Tema a convenir: Wittgenstein o influenciados por Wittgenstein**  
-
----
-
-### **Lunes 12 de Mayo**  
-#### *Semana 16*  
-**Tema a convenir: Wittgenstein o influenciados por Wittgenstein**  
+| Semana  | Fecha                | Tema                                         | Lectura                                   | Encargados          |
+|---------|----------------------|----------------------------------------------|-------------------------------------------|---------------------|
+| 1       | Lunes 20 de Enero    | Vida y obra de Ludwig Wittgenstein. Taller de Fanzine | -                                         | Profesor            |
+| 2       | Lunes 27 de Enero    | Presentación del programa y reglas del seminario. La multiplicidad de interpretaciones del TLP | *Tomasini, Cap. 2* y *Tomasini, Cap. 3*   | Profesor            |
+| 3       | Lunes 3 de Febrero   | Ontología y lógica                           | *Tomasini, Cap. 4* y *Tomasini, Cap. 5*   | -                   |
+| 4       | Lunes 10 de Febrero  | Lógica, matemáticas y ciencia                | *Tomasini, Cap. 6* y *Tomasini, Cap. 7*   | -                   |
+| 5       | Lunes 17 de Febrero  | Solipsismo, misticismo y filosofía           | *Tomasini, Cap. 8*                        | -                   |
+| 6       | Lunes 24 de Febrero  | Interpretaciones propias del TLP             | -                      | -                   |
+| 7       | Lunes 3 de Marzo     | Crítica a la definición ostensiva            | *IF Parte I, §§1-88*                    | Profesor                   |
+| 8       | Lunes 10 de Marzo    | La noción de filosofía                       | *IF Parte I, §§89-133*                   | -                   |
+| 9       | Lunes 17 de Marzo    | Seguimiento de reglas                        | *IF Parte I, §§134-242*                   | -                   |
+| 10      | Lunes 24 de Marzo    | ENTREGA segundo corte                        | -                                         | -                   |
+| 11      | Lunes 31 de Marzo    | Lenguaje privado                             | *IF Parte I, §§243-275*                   | -                   |
+| 12      | Lunes 7 de Abril     | Lo interno y lo externo                      | *IF Parte I, §§276-307*                         | -                   |
+| -       | Lunes 14 de Abril    | Semana Santa                                 | -                                         | -                   |
+| 13      | Lunes 21 de Abril    | Ver y ver como                               | *IF Parte II, 11*                      | -                   |
+| 14      | Lunes 28 de Abril    | Tema a convenir | - | - |
+| 15      | Lunes 5 de Mayo      | Tema a convenir | - | - |
+| 16      | Lunes 12 de Mayo     | Tema a convenir | - | - |
 
 
 ![](/images/site/borde.jpg)
