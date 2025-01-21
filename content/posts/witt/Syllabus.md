@@ -41,10 +41,10 @@ Durante la asignatura, se enseñarán habilidades hermenéuticas esenciales que 
 | Semana  | Fecha                | Tema                                         | Lectura                                   | Encargados          |
 |---------|----------------------|----------------------------------------------|-------------------------------------------|---------------------|
 | 1       | Lunes 20 de Enero    | Vida y obra de Ludwig Wittgenstein. Taller de Fanzine | -                                         | Profesor            |
-| 2       | Lunes 27 de Enero    | Presentación del programa y reglas del seminario. La multiplicidad de interpretaciones del TLP | *Tomasini, Cap. 2* y *Tomasini, Cap. 3*   | Profesor            |
-| 3       | Lunes 3 de Febrero   | Ontología y lógica                           | *Tomasini, Cap. 4* y *Tomasini, Cap. 5*   | -                   |
-| 4       | Lunes 10 de Febrero  | Lógica, matemáticas y ciencia                | *Tomasini, Cap. 6* y *Tomasini, Cap. 7*   | -                   |
-| 5       | Lunes 17 de Febrero  | Solipsismo, misticismo y filosofía           | *Tomasini, Cap. 8*                        | -                   |
+| 2       | Lunes 27 de Enero    | Presentación del programa y reglas del seminario. La multiplicidad de interpretaciones del TLP | *TODO EL TLP* | Profesor            |
+| 3       | Lunes 3 de Febrero   | Ontología y lógica                           | *Tomasini, Cap. 2* y *Tomasini, Cap. 3* | -                   |
+| 4       | Lunes 10 de Febrero  | Lógica, matemáticas y ciencia                | *Tomasini, Cap. 4* y *Tomasini, Cap. 5*      | -                   |
+| 5       | Lunes 17 de Febrero  | Solipsismo, misticismo y filosofía           | *Tomasini, Cap. 6*, *Tomasini, Cap. 7*,  *Tomasini, Cap. 8*                          | -                   |
 | 6       | Lunes 24 de Febrero  | Interpretaciones propias del TLP             | -                      | -                   |
 | 7       | Lunes 3 de Marzo     | Crítica a la definición ostensiva            | *IF Parte I, §§1-88*                    | Profesor                   |
 | 8       | Lunes 10 de Marzo    | La noción de filosofía                       | *IF Parte I, §§89-133*                   | -                   |
