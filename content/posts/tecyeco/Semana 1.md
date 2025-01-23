@@ -1,6 +1,6 @@
 ---
 title: "Semana 1"
-date: 2020-06-08T08:06:25+06:00
+date: 2025-01-08T08:06:25+06:00
 description: Semana 1
 hero: /images/hero/tecyco.png
 menu:
