@@ -11,6 +11,8 @@ menu:
     weight: 3
 tags: ["Tecnología y ecología humana", "Maestría - Psicología"]
 math: true
+draft: true
+
 ---
 
 

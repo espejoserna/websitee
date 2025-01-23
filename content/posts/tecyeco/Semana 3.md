@@ -11,7 +11,7 @@ menu:
     weight: 4
 tags: ["Tecnología y ecología humana", "Maestría - Psicología"]
 math: true
-draft: false
+draft: true
 
 ---
 ![](/images/site/borde.jpg)
