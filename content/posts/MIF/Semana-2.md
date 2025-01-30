@@ -11,7 +11,7 @@ menu:
     weight: 3
 tags: ["Metodología de la investigación filosófica", "Pregrado - Filosofía"]
 math: true
-draft: true
+draft: false
 
 ---
 
