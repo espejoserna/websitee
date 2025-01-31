@@ -193,12 +193,12 @@ La dificultad de la pregunta radica, en parte, en que no sabemos en qué consist
 
 La sugerencia de Turing fue cambiar la pregunta por la inteligencia y formuló lo que ahora se conoce como el Test de Turing.
 
-Por mucho tiempo se consideró como la medida, pero ChatGPT4 ya lo pasa. Y sin embargo, no hya acuerdo científico sobre si hay inteligencia o no
+Por mucho tiempo se consideró como la medida, pero ChatGPT4 ya lo pasa. Y sin embargo, no hay acuerdo científico sobre si hay inteligencia o no.
 
 Pero eso no ha detenido a la ingienería.  
 No importa si en realidad hay inteligencia; importa si funciona.
 
-### La IA que tenemos y sus retos
+<!-- ### La IA que tenemos y sus retos
 
 A pesar de no tener una forma sistemática de determinar si una máquina es inteligente, tenemos ya una multiplicidad de agentes artificiales haciendo cosas sorprendentes.
 
@@ -221,7 +221,7 @@ Sin tener una respuesta a la pregunta de si se trata genuinamente de un agente a
 
 
 En esta asignatura, examinaremos la IA en el siglo XXI, con debates éticos y políticos como estos. La pregunta central entonces no será tanto en la naturaleza de la IA, sino en el impacto que tiene en la persona.
-
+ -->
 
 ## La tecnología
 
@@ -230,8 +230,7 @@ Una manera de entender qué es la inteligencia artificial es la siguiente: es un
 
 ¿Qué es la inteligencia?
 
-Philip Jansen et al. definen la IA como «la ciencia y la ingeniería de máquinas con capacidades que se consideran inteligentes según
-los estándares de la inteligencia humana» (2018, pág. 5). 
+Philip Jansen et al. definen la IA como «la ciencia y la ingeniería de máquinas con capacidades que se consideran inteligentes según los estándares de la inteligencia humana» (2018, pág. 5). 
 
 Problemas:
 
@@ -316,7 +315,7 @@ análisis de imagen), pero también puede estar integrada en aparatos físicos
 como robots, coches, o en aplicaciones del «internet de las cosas» . Ejemplos?
 
 
-### Aplicaciones
+<!-- ### Aplicaciones
 
 - ¿Quiere mejorar las ventas en su empresa? Utilice inteligencia artificial para llegar a sus clientes de manera más directa y eficaz. (Pero: La inteligencia artificial puede tomar un incentivo económico por encima de todo y enfocarse completa y únicamente en la producción a toda costa y dirigir todas sus energías y esfuerzos a la producción. )
 
@@ -335,11 +334,11 @@ olvidar que la IA ya impulsa plataformas de redes sociales, motores de búsqueda
 que ver solamente con la tecnología, sino también de lo que los humanos
 hacen con ella, cómo la usan, cómo la perciben y la experimentan, y cómo
 la integran en entornos sociotécnicos más amplios.
-
+ -->
 
 ## Ciencia de datos
 
-Varias de las cuestiones que revisaremos tienen que ver con la manera en que se entienden y usan los macrodatos (bigdata). Por el momento, podemos usar la caracterización de los macro datos en términos de las 3 Vs: volumen, variedad y velocidad.
+Varias de las cuestiones que revisaremos tienen que ver con la manera en que se entienden y usan los macrodatos (Big Data). Por el momento, podemos usar la caracterización de los macro datos en términos de las 3 Vs: volumen, variedad y velocidad.
 
 
 > El aprendizaje automático está basado en la estadística: es un proceso estadístico. Puede usarse para varias tareas, pero la tarea subyacente es a menudo el reconocimiento de patrones.

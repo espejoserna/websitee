@@ -90,11 +90,11 @@ Las notas de lectura son esenciales para la sesión de seminario. Deberán segui
 
 ### Plan de trabajo final
 
-Formulación clara de un objetivo general y unos objetivos específicos junto con la bibliografía que van a utilizar.
+Consultar con el profesor los conceptos y la estrategia para el trabajo final
 
-### Ensayo final
+### Trabajo final
 
-Una propuesta comunicativa en donde presenten una posición argumentada y que siga una estructura bien definida y argumentativamente sólida. (Por definir)
+Exposición oral de 3 conceptos de la clase, a 3 personas, en 15 minutos. No es posible hacer una presentación de 45 minutos a 3 personas juntas. Deben ser 3 presentaciones de 15 minutos cada una de a 1 persona en donde se explique 1 concepto relacionado con los temas de la clase. Deben enviar un video/audio de esa exposición. 
 
 
 **Incumplimiento**
