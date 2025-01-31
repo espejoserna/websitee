@@ -68,8 +68,7 @@ Revisen si entienden la exposición y si están de acuerdo; pregunten por las re
 
 ### Contenido 
 
-1. Introducción al curso. Presentación del tema general. Instrucciones para leer e instrucciones para escribir. Lectura Coeckelbergh, M. (2021). Ética de la inteligencia artificial. Ediciones Cátedra. Caps 1 y 2 
-1. Fundamentos de IA: el cambio del siglo XX al siglo XXI. Lectura Coeckelbergh, M. (2021). Ética de la inteligencia artificial. Ediciones Cátedra. Caps 5 y 6 
+1. Introducción al curso. Presentación del tema general. Instrucciones para leer e instrucciones para escribir. Lectura Coeckelbergh, M. (2021). Ética de la inteligencia artificial. Ediciones Cátedra. Caps 1 , 2, 5 y 6 
 1. El descubrimiento del excedente conductual.  Shoshana, Z. (2020). La era del capitalismo de la vigilancia. La lucha de un futuro humano frente a las nuevas fronteras del poder. Barcelona: Paidós.  Cap 3 
 1. Armas de destrucción matemática. O'Neil, C. (2017). Armas de Destrucción Matemática: Cómo el Big Data aumenta la desigualdad y amenaza la democracia. Madrid: Capitán Swing. Cap. *A convenir según intereses*
 1. Privacidad y Poder. VELIZ, C. (2021) Privacidad es poder: datos, vigilancia y libertad en la era digital. Barcelona: Editorial Debate. Cap 3.  
