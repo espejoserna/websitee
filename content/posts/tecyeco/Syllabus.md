@@ -53,7 +53,7 @@ La existencia de esta dualidad plantea una serie de interrogantes que guiarán n
 
 **Antes de la sesión**
 
-Todos los asistentes deberán subir unos apuntes de lectura por tarde el lunes al medio día. Los apuntes deberán seguir el siguiente forma:
+Todos los asistentes deberán subir unos apuntes de lectura por tarde el juves a las 6:59 am. Los apuntes deberán seguir el siguiente forma:
 
 1. Tesis principal: una *oración* en la que se enuncie de manera clara el objetivo principal del texto. 
 2. Razones a favor: una presentación corta de tres razones ofrecidas en el texto para la tesis principal.
