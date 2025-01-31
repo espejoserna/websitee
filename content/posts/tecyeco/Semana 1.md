@@ -168,14 +168,7 @@ defiende? ¿Podría fortalecer el argumento?
 
 La expresión "inteligencia artificial" suele traer a la mente imágenes de ciencia ficción. 
 
-![](/images/site/1.jpg)
-
 ¿Qué se les viene a la mente?
-
-![](/images/site//7.jpg)
-
-![](/images/site//8.jpg)
-![](/images/site//5.png)
 
 ¿Pueden las máquinas _pensar_?
 
@@ -189,15 +182,12 @@ Alan Turing ofreció las bases teóricas de lo que hoy son los computadores digi
 
 También se pregunto si sería posible que una máquina puede pensar.
 
-Todavía no tenemos una respuesta unívoca, a pesar de los avances. 
+Todavía no tenemos una respuesta unívoca, a pesar de avances como deep blue, watson y gpt.
 
-![](/images/site//6.jpg)
-![](/images/site//9.jpg)
-![](/images/site//11.jpg)
 
-También aparece en modos en que usualmente no tenemos tan presentes.
+También aparece en modos en que usualmente no tenemos tan presentes, como en youtube, google y spotify. 
 
-![](/images/site//10.jpg)
+
 
 La dificultad de la pregunta radica, en parte, en que no sabemos en qué consiste pensar en el caso de los humanos. Nuestro entendimiento de la mente humana todavía necesita mayor desarrollo.
 
@@ -216,11 +206,6 @@ A pesar de no tener una forma sistemática de determinar si una máquina es inte
 
 <iframe src="https://giphy.com/embed/U86wHVI53I3TPgLaIt" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-
-![](/images/site//12.jpg)
-
-
-![](/images/site//13.jpg)
 
 Sin la respuesta la pregunta, por si hay inteligencia o no, hay preguntas que igual quedan en el aire. 
 
@@ -361,10 +346,6 @@ Varias de las cuestiones que revisaremos tienen que ver con la manera en que se 
 Los algoritmos pueden identificar patrones o reglas observando conjuntos
 de datos y utilizar estos patrones o reglas para explicarlos y hacer predicciones.
 
-![](/images/site//14.png)
-
-
-![](/images/site//17.png)
 
 > Los científicos solían crear teorías para explicar datos y hacer predicciones; en el aprendizaje automático, los ordenadores crean sus propios modelos que encajan con los datos. El punto de partida son los datos, no las teorías. En este sentido, los datos dejan de ser «pasivos» y pasan a ser «activos»: son los «datos mismos los que definen lo que hacer a continuación»
 (Alpaydin 2016, 11)
@@ -389,18 +370,7 @@ contra el cáncer sugerida por una IA, pero también por su experiencia y su
 intuición de especialista. Si se deja fuera la intervención humana, las cosas
 pueden salir mal, carecer de sentido o, simplemente, resultar ridículas. 
 
-Correlaciones espúreas: 
-![](/images/site//15.png)
-![](/images/site//16.png)
-
-
-http://www.tylervigen.com/spurious-correlations
-
-
-Aplicaciones de la ciencia de datos:
-
-
-![](/images/site//10.jpg)
+Correlaciones espúreas:  http://www.tylervigen.com/spurious-correlations
 
 
 
