@@ -1,12 +1,12 @@
 ---
-title: "Semana 3"
+title: "Semana 2"
 date: 2020-06-08T08:06:25+06:00
-description: Semana 3
+description: Semana 2
 hero: /images/hero/excedente.png
 menu:
   sidebar:
-    name: Semana 3
-    identifier: tecyecoSemana 3
+    name: Semana 2
+    identifier: tecyecoSemana 2
     parent: tecyeco-folder
     weight: 4
 tags: ["Tecnología y ecología humana", "Maestría - Psicología"]
@@ -104,39 +104,39 @@ Vale la pena diferencia entre algunos de los retos que nos presenta Zuboff.
 
 ## Preguntas
 
-### Grupo 1: Papel de los usuarios y educación sobre privacidad
+### **1. Libertad, privacidad y manipulación**  
+- ¿Tenemos verdadera libertad de decisión cuando estamos totalmente expuestos y estudiados en términos conductuales y comportamentales?  
+- ¿Cómo influye la recopilación de datos en nuestra libertad personal?  
+- ¿Hasta qué punto las personas son conscientes del grado en que sus comportamientos son manipulados por las corporaciones tecnológicas a través de estos mercados de futuros conductuales?  
+- La capacidad de las empresas para influir y modificar el comportamiento de los usuarios puede tener implicaciones negativas, ya que puede ser utilizada para manipular opiniones y decisiones.  
+- ¿Hasta qué nivel se puede entender la personalización del contenido como manipulación?  
+- Se considera que la vigilancia tiene un límite ético que depende de cada persona y lo influenciable que puede llegar a ser.  
 
-1. ¿Qué papel juegan los usuarios en la creación de su propio valor en el contexto del capitalismo de la vigilancia?
-2. ¿Cómo se puede educar a los usuarios sobre la importancia de la privacidad y la gestión de sus datos en un entorno digital cada vez más complejo?
+### **2. Poder y regulaciones**  
+- ¿Qué regulaciones son necesarias para frenar el poder desmesurado de las grandes corporaciones tecnológicas sin frenar el desarrollo digital y la innovación?  
+- ¿En qué medida el capitalismo de la vigilancia está cambiando las normas éticas en torno al consentimiento y la propiedad de los datos personales?  
+- ¿Hay regulaciones para limitar el poder que tienen las empresas sobre la información nuestra y todos los datos que recopilan?  
+- El control y la explotación de los datos por parte de unas pocas grandes empresas tecnológicas crean una desigualdad de poder significativa, donde los usuarios tienen poco control sobre cómo se utilizan sus datos.  
+- Existe una preocupación real entre los humanistas: reflexionar sobre si los algoritmos pueden acabar reforzando prejuicios o discriminando a ciertos grupos de personas.  
 
-### Grupo 2: Incentivar prácticas éticas y regulaciones
+### **3. Beneficios, riesgos y sostenibilidad**  
+- ¿Será posible encontrar un equilibrio entre la innovación tecnológica y la protección de la información de los ciudadanos?  
+- La recopilación masiva de datos plantea preocupaciones sobre la privacidad y la falta de consentimiento informado.  
+- ¿Hasta qué punto los beneficios económicos generados por el modelo de capitalismo de la vigilancia compensan los riesgos éticos asociados con la explotación de datos personales?  
+- ¿El dilema ético del capitalismo de la vigilancia y la deshumanización de los datos hace sostenible este modelo por muchos años más?  
+- ¿Es realmente sostenible a largo plazo el modelo de negocio de Google basado en la vigilancia, o podría enfrentar un rechazo más amplio de los usuarios en busca de mayor privacidad?  
+- ¿Hay vuelta atrás a la era donde se priorice el individuo sobre el beneficio corporativo o capitalista?  
 
-1. ¿Cómo pueden las empresas tecnológicas ser incentivadas a adoptar prácticas más éticas en el manejo de datos?
-2. ¿Qué pueden hacer los gobiernos para regular este capitalismo de la vigilancia sin sofocar la innovación?
-3. ¿Está cambiando la relación de poder que tienen hoy las compañías de TI sobre los seres humanos?
-4. En el proceso de privatizar los datos ante el uso desmesurado que ejercen las compañías ¿Es tarde o se podría lograr, en esto mismo, las compañías de TI estarían dispuestas?
+### **4. Vigilancia y su impacto en la vida cotidiana**  
+- ¿Qué tan beneficiados nos vemos como usuarios al experimentar estrategias publicitarias basadas sobre la predicción de nuestros comportamientos?  
+- ¿Hoy valoramos tanto el uso de estas herramientas que de verdad no nos importa el uso de nuestra información?  
+- Finalmente, siento que, con la lectura, fui más consciente de lo observados que estamos, lo que me hizo cuestionar hasta qué punto lo hemos normalizado.  
+- Porque, aunque sabemos de la extracción de datos y la vigilancia constante, también nos hemos adaptado a esta realidad y funcionamos con ella, aun si la idea nos causa incomodidad.  
+- ¿Con la vigilancia realmente ya no hay nada de privacidad en estas plataformas para los usuarios?  
 
-### Grupo 3: Consecuencias sociales, éticas y derechos de los usuarios
-
-1. ¿Hasta qué punto la extracción y utilización del excedente conductual comprometen la privacidad de los individuos?
-2. ¿Cómo amplifica el capitalismo de la vigilancia la desigualdad y la exclusión social?
-3. ¿Qué implicaciones tiene el capitalismo de la vigilancia para los derechos y la autonomía de los individuos?
-4. ¿Cuáles son los principales aspectos éticos que se tratan respecto de la vigilancia de datos?
-5. ¿Cuáles son las consecuencias sociales y éticas de la concentración de derechos de decisión sobre la privacidad en manos de corporaciones como Google?
-
-### Grupo 4: Protección de privacidad y derechos en un entorno tecnológico
-
-1. ¿Cómo podemos equilibrar la innovación tecnológica con la protección de nuestra privacidad y derechos?
-2. ¿Cómo podemos tener más control sobre nuestros datos personales en este entorno dominado por la vigilancia?
-3. ¿Qué peligros hay si las empresas usan nuestros datos online para ganar dinero?
-4. ¿Cómo podemos proteger nuestros derechos y seguir innovando en tecnología?
-5. Cómo nos quita privacidad el capitalismo de vigilancia en internet?
-
-### Grupo 5: Comparación de estrategias y modelos de negocio
-
-1. ¿Cómo se comparan las estrategias de Google para la recopilación de datos con las prácticas de otras plataformas digitales, como Facebook o Amazon, en el contexto del capitalismo de la vigilancia?
-2. ¿Cómo ha influido el modelo de negocio de Google en la competencia dentro del sector tecnológico y en la innovación de otras empresas en el ámbito digital?
-3. ¿Cómo podría estarse reformando la conducta del ser humano gracias al acceso y manejo que dan las empresas del sector TI?
+### **5. Impacto ecológico y gestión de datos**  
+- No se mencionan las implicaciones ecológicas de la manipulación masiva de información, como el uso excesivo de recursos para el mantenimiento de la data.  
+- ¿Cómo se logra recopilar y almacenar toda esta información con seguridad?  
 
 ## Para la próxima semana
 
