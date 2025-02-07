@@ -8,7 +8,7 @@ menu:
     name: Semana 2
     identifier: tecyecoSemana 2
     parent: tecyeco-folder
-    weight: 4
+    weight: 3
 tags: ["Tecnología y ecología humana", "Maestría - Psicología"]
 math: true
 draft: false
