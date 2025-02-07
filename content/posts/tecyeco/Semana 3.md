@@ -11,7 +11,7 @@ menu:
     weight: 4
 tags: ["Tecnología y ecología humana", "Maestría - Psicología"]
 math: true
-draft: true
+draft: false
 
 ---
 ![](/images/site/borde.jpg)
@@ -67,14 +67,14 @@ El punto del capítulo no es que el uso de los datos es siempre malo. Sino que *
 ### Datos para los usuarios 
 
 
-![](/img/19.png)
+![](/images/site/19.png)
 
 
 
 ### Datos para terceros
 
 
-![](/img/18.png)
+![](/images/site/18.png)
 
 
 
