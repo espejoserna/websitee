@@ -349,7 +349,7 @@ de datos y utilizar estos patrones o reglas para explicarlos y hacer prediccione
 > Los científicos solían crear teorías para explicar datos y hacer predicciones; en el aprendizaje automático, los ordenadores crean sus propios modelos que encajan con los datos. El punto de partida son los datos, no las teorías. En este sentido, los datos dejan de ser «pasivos» y pasan a ser «activos»: son los «datos mismos los que definen lo que hacer a continuación»
 (Alpaydin 2016, 11)
 
-
+<!-- 
 ### Definiciones
 - Entrenamiento supervisado (se dan las categorías para organizar los macrodatos)
 
@@ -368,7 +368,7 @@ procesamiento de datos habían sido tan sencillos para las organizaciones
 contra el cáncer sugerida por una IA, pero también por su experiencia y su
 intuición de especialista. Si se deja fuera la intervención humana, las cosas
 pueden salir mal, carecer de sentido o, simplemente, resultar ridículas. 
-
+ -->
 Correlaciones espúreas:  http://www.tylervigen.com/spurious-correlations
 
 
