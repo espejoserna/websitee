@@ -5,7 +5,7 @@ description: Semana 4
 hero: /images/hero/banner.jpg
 menu:
   sidebar:
-    name: Semana 3
+    name: Semana 4
     identifier: MIFSemana 4
     parent: MIF-folder
     weight: 5
