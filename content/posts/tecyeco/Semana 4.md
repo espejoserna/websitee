@@ -340,40 +340,6 @@ tiene sentido cobrarles más, Y eso es justo lo que hace Allstate.
 ### Preguntas
 
 
-#### ¿Y el lado positivo?
-
-1. ¿Es justo generalizar sobre todos los algoritmos y su impacto negativo sin considerar que algunos pueden ser diseñados para ser más justos y transparentes?
-1. ¿Se está desestimando el valor de la automatización al centrarse únicamente en sus aspectos negativos, sin reconocer los beneficios como la eficiencia y la reducción de costos operativos?
-1. ¿Por qué el capítulo no ofrece soluciones prácticas para abordar los problemas de los sistemas de calificación crediticia y la automatización?
-
-### Regulaciones para garantizar justicia y transparencia
-1. ¿Qué tipo de regulaciones deberían establecerse para supervisar el uso de algoritmos en la gestión laboral y proteger a los trabajadores de prácticas laborales injustas?
-2. ¿Qué medidas se pueden implementar para garantizar que estas prácticas no comprometan la salud y el bienestar de los trabajadores?
-3. ¿Cómo podemos garantizar que los algoritmos sean justos y que no perpetuen los prejuicios que existen?
-4. ¿Cuáles son las acciones que podemos tomar para que el uso de algoritmos en decisiones cruciales sea más transparente y responsable?
-5. ¿De qué manera podemos permitir que las personas tengan más control sobre las decisiones automatizadas que afectan su vida?
-6. ¿Qué nivel de transparencia es necesario? ¿Hasta qué punto deben las empresas ser transparentes con respecto a los criterios y algoritmos que utilizan para evaluar a los candidatos?
-7. ¿Regulación Insuficiente?: ¿Qué medidas concretas se pueden implementar para regular y controlar de manera efectiva el uso de datos personales en la publicidad en línea para prevenir la explotación y el abuso de los consumidores más vulnerables?
-8. Responsabilidad de las Plataformas Tecnológicas: ¿Qué responsabilidad tienen las plataformas como Google y Facebook en la proliferación de la publicidad depredadora, y cómo podrían estas plataformas modificar sus políticas y prácticas para proteger mejor a los usuarios?
-3. ¿Es suficiente reformar los algoritmos, o se necesita un cambio más amplio en las estructuras económicas y sociales que perpetúan la desigualdad?
-
-
-### Gestión de recursos humanos y selección de personal
-1. ¿Es responsabilidad de las áreas de gestión humana capacitar a los candidatos para que aprendan a comprender y navegar los algoritmos de las herramientas de selección?
-2. ¿Cómo podría el área de selección identificar y descartar sesgos que presentan herramientas de selección para no excluir CV’s de candidatos potenciales?
-3. ¿Qué tipo de retroalimentación deberían hacer las empresas en cuanto a cómo son tomadas las decisiones con los candidatos que no fueron seleccionados?
-
-### Sector asegurador y discriminación algorítmica
-1. ¿Está el sector asegurador preparado para regulaciones algorítmicas?
-2. ¿Cómo el sector asegurador podría estar intencionalmente con base en la data poniendo en desventaja poblaciones?
-3. Si bien el sector asegurador debe mapear los riesgos que podría generar cada persona (algoritmos) y por ende los siniestros, ¿cómo esto discrimina o posibilita la adquisición de seguros de las personas?
-
-### Detección y corrección de sesgos
-1. ¿Cómo se pueden detectar y corregir los sesgos en los modelos?
-2. ¿Qué impactos a largo plazo tienen estos modelos en la diversidad laboral?
-1. ¿Existe algún mecanismo o ente que trabaje en la educación financiera, enfocado en los grupos sociales más vulnerables, para contribuir en la toma de decisiones financieras responsables basada en datos y no en publicidad?
-
-
 
 ### Privacidad
 
