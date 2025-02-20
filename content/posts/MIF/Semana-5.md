@@ -11,7 +11,7 @@ menu:
     weight: 6
 tags: ["Metodología de la investigación filosófica", "Pregrado - Filosofía"]
 math: true
-draft: true
+draft: false
 
 ---
 
@@ -22,7 +22,6 @@ draft: true
 
 ## Discusión 
 
-
   - Comentarios línea a línea 
   
 ## Tareas
@@ -31,5 +30,5 @@ draft: true
 
  Tarea 2:  Determine 3 posibles preguntas sobre las que les gustaría desarrollar en el trabajo de grado.
 
- Tarea 3: Hablen con alguien que ya esté haciendo la tesis con quienes ud han pensado trabajar y pregúntenles sobre 1) los retos que han tenido que afrontar y 2) la forma en que están trabajando con sus directores. En particular, quiero que les pregunten cómo pasaron de definir un tema general a una pregunta específica. 
+ Tarea 3: Hablen con alguien que ya esté haciendo la tesis con quienes ud han pensado trabajar y pregúntenles sobre 1) los retos que han tenido que afrontar, 2) la forma en que están trabajando con sus directores y 3) cómo pasaron de definir un tema general a una pregunta específica. 
 
