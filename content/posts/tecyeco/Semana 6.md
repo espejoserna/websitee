@@ -1,17 +1,16 @@
 ---
-title: "Semana 6"
+title: "Semana 5"
 date: 2020-06-08T08:06:25+06:00
-description: Semana 6
+description: Semana 5
 hero: /images/hero/banner.jpg
 menu:
   sidebar:
-    name: Semana 6
-    identifier: tecyecoSemana 6
+    name: Semana 5
+    identifier: tecyecoSemana 5
     parent: tecyeco-folder
     weight: 7
 tags: ["Tecnología y ecología humana", "Maestría - Psicología"]
 math: true
-draft: true
 ---
 
 
@@ -19,8 +18,6 @@ draft: true
 
 ## Plan
 1. Rúbrica del trabajo
-1. Justicia y algortimos
-
 
 ![](/images/site/borde.jpg)
 
@@ -50,7 +47,7 @@ En principio para el *treinta de agosto* pero con probabilidad de pedir un fin d
 
 
 
-
+<!-- 
 ## Justicia y algoritmos
 
 ### Test de asociación implícita
@@ -134,4 +131,4 @@ Cámaras de Eco
 
 ![](/courses/tecyeco/img/2.png)
 
-
+ -->

@@ -11,8 +11,6 @@ menu:
     weight: 6
 tags: ["Metodología de la investigación filosófica", "Pregrado - Filosofía"]
 math: true
-draft: false
-
 ---
 
 ## Recuento de la semana: 

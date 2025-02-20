@@ -1,12 +1,12 @@
 ---
-title: "Semana 4"
+title: "Semana 3"
 date: 2020-06-08T08:06:25+06:00
-description: Semana 4
+description: Semana 3
 hero: /images/hero/weapons.jpg
 menu:
   sidebar:
-    name: Semana 4
-    identifier: tecyecoSemana 4
+    name: Semana 3
+    identifier: tecyecoSemana 3
     parent: tecyeco-folder
     weight: 5
 tags: ["Tecnología y ecología humana", "Maestría - Psicología"]
